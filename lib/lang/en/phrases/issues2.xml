@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+<epp:phrase id="issues2_typename_duplicate_title">Duplicate Titles</epp:phrase>
+<epp:phrase id="issues2_typename_check_year">Incorrect Year</epp:phrase>
+<epp:phrase id="issues2_typename_long_title">Long Titles</epp:phrase>
+
+<epp:phrase id="issues2_typename_duplicate_doi">Duplicate DOIs</epp:phrase>
+<epp:phrase id="issues2_typename_duplicate_issn">Duplicate ISSNs</epp:phrase>
+<epp:phrase id="issues2_typename_duplicate_isbn">Duplicate ISBNs</epp:phrase>
+
+<epp:phrase id="searchfield_help_item_issues_type"/>
+<epp:phrase id="searchfield_help_eprint_status"/>
+<epp:phrase id="searchfield_help_user.username"/>
+
+<epp:phrase id="Plugin/Screen/EPrint/Issues2:title">Duplicates</epp:phrase>
+<epp:phrase id="Plugin/Screen/EPrint/Issues2:issues">Duplicates</epp:phrase>
+<epp:phrase id="Plugin/Screen/Staff/IssueSearch2:title">Duplicates Search</epp:phrase>
+<epp:phrase id="Plugin/Screen/Staff/IssueSearch2:description">Search for duplicate records.</epp:phrase>
+
+<epp:phrase id="eprint_fieldname_item_issues2">Duplicates</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_id">Issue ID</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_type">Duplication type</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_description">Description</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_timestamp">Timestamp</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_status">Status</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_reported_by">Reported by</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_resolved_by">Resolved by</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_comment">Comments</epp:phrase>
+<epp:phrase id="eprint_fieldname_item_issues2_count">Count</epp:phrase>
+
+<epp:phrase id="eprint_fieldopt_item_issues2_status_discovered">Auto Discovered</epp:phrase>
+<epp:phrase id="eprint_fieldopt_item_issues2_status_ignored">Ignored</epp:phrase>
+<epp:phrase id="eprint_fieldopt_item_issues2_status_autoresolved">Auto Resolved</epp:phrase>
+<epp:phrase id="eprint_fieldopt_item_issues2_status_reported">Reported</epp:phrase>
+<epp:phrase id="eprint_fieldopt_item_issues2_status_resolved">Resolved</epp:phrase>
+
+<!--
+<epp:phrase id=""></epp:phrase>
+-->
+</epp:phrases>

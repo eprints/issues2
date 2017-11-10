@@ -1,0 +1,32 @@
+input[name="userid.username"]
+{
+  width: 100px;
+}
+div[id="userid.username_help_show"]
+{
+  display: none;
+}
+.ep_issue_list li
+{
+  margin-bottom: 15px;
+}
+.ep_issue_list li h3
+{
+  font-size: 100%;
+  margin-bottom: 5px;
+}
+.ep_issue_list_timestamp
+{
+  font-size: 80%;
+}
+
+.ep_issues2_summary
+{
+  display: inline-flex;
+  width: 45%;
+}
+.ep_issues2_summary_inner
+{
+  border: 1px solid lightgray;
+  padding: 5px;
+}

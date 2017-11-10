@@ -1,0 +1,32 @@
+use EPrints;
+use strict;
+
+my $session = new EPrints::Session;
+exit( 0 ) unless( defined $session );
+
+my $user = $session->current_user;
+exit unless $user->get_type eq "admin" || $user->get_type eq "local_admin" || $user->has_role("eprint/issues");
+
+my $eprintid = $session->param("eprintid");
+my $code = $session->param("code");
+exit unless $eprintid && $code;
+
+my $state = $session->param("state");
+$state = "ignored" unless $state =~ /^(discovered|ignored|reported|autoresolved|resolved)$/;
+
+my $eprint = new EPrints::DataObj::EPrint( $session, $eprintid );
+exit unless $eprint;
+
+my $issues = $eprint->get_value("item_issues2");
+exit unless $issues;
+
+foreach my $i ( @{$issues} )
+{
+  if ( $i->{id} && $i->{id} eq $code )
+  {
+    $i->{status} = $state;
+    $eprint->set_value( "item_issues2", $issues );
+    $eprint->commit(1);
+    last;
+  }
+}

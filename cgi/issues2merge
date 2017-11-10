@@ -1,0 +1,39 @@
+use EPrints;
+use strict;
+
+my $session = new EPrints::Session;
+exit( 0 ) unless( defined $session );
+
+my $user = $session->current_user;
+exit unless $user->get_type eq "admin" || $user->get_type eq "local_admin" || $user->has_role("eprint/issues");
+
+my $eprintid1 = $session->param("eprintid1");
+my $eprintid2 = $session->param("eprintid2");
+my $fields = $session->param("fields");
+exit unless $eprintid1 && $eprintid2 && $fields;
+
+exit unless $eprintid1 =~ /^[0-9]+$/;
+exit unless $eprintid2 =~ /^[0-9]+$/;
+
+my $eprint1 = new EPrints::DataObj::EPrint( $session, $eprintid1 );
+exit unless $eprint1;
+
+my $eprint2 = new EPrints::DataObj::EPrint( $session, $eprintid2 );
+exit unless $eprint2;
+
+my $need_commit = 0;
+
+# copy the field values from eprint2 into eprint1
+foreach my $f ( split(/,/, $fields) )
+{
+  next unless $f;
+
+  my $v = $eprint2->get_value( $f );
+  if( defined( $f ) )
+  {
+    $eprint1->set_value( $f, $v );
+    $need_commit = 1;
+  }
+}
+
+$eprint1->commit(1) if $need_commit;

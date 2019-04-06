@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://192.168.23.142/id/epm/issues2'>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://template.ulcc.ac.uk/id/epm/issues2'>
   <epmid>issues2</epmid>
   <eprintid>529</eprintid>
-  <uri>http://git.dev.ac.uk/id/epm/issues2</uri>
+  <uri>http://192.168.23.142/id/epm/issues2</uri>
   <documents>
     <document>
       <files>
@@ -128,6 +128,22 @@
         </file>
         <file>
           <datasetid>document</datasetid>
+          <filename>citations/eprint/brief_info.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>df14d03d6383349ca5856dac8d1d6f2a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>268</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>citations/eprint/issue2.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>81ee034e23ba6890867b35aab1611ce2</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>546</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
           <filename>epm/issues2/cgi/issues2merge</filename>
           <mime_type>text/plain</mime_type>
           <hash>0fa95077716d4e85cdd62f738115e682</hash>
@@ -146,9 +162,9 @@
           <datasetid>document</datasetid>
           <filename>epm/issues2/bin/issues_audit2</filename>
           <mime_type>text/x-perl</mime_type>
-          <hash>87deafd3e54a0c883d6ca1fe5af15ed9</hash>
+          <hash>20c761f65cfd0b11344995a0fa7fdbd0</hash>
           <hash_type>MD5</hash_type>
-          <filesize>7509</filesize>
+          <filesize>7512</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -180,7 +196,7 @@
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.2</version>
+  <version>1.0.2.1</version>
   <controller>EPMC::Issues2</controller>
   <creators>
     <item>
@@ -191,7 +207,7 @@
       <id>jb4@ecs.soton.ac.uk</id>
     </item>
   </creators>
-  <datestamp>2018-10-30 20:38:15</datestamp>
+  <datestamp>2019-04-06 05:27:29</datestamp>
   <title>Duplicate Checker (Issues2)</title>
   <description>Helps repository administrators find records with duplicate metadata.
 An alternative to the existing Issues tool, with a simplified interface.

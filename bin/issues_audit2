@@ -1,8 +1,7 @@
 #!/usr/bin/perl -w
 
 use FindBin;
-use lib "$FindBin::Bin/../../perl_lib";
-
+use lib "$FindBin::Bin/../../../perl_lib";
 ######################################################################
 #
 #
@@ -141,6 +140,8 @@ sub _set_item_issues($$);
 #}
 
 my $ds = $session->get_archive()->get_dataset( 'eprint' );
+my %ids = map { $_ => 1 } @{$ds->search->ids};
+
 my $list;
 if( @ARGV )
 {
@@ -262,6 +263,8 @@ sub _set_item_issues($$)
         # clone, otherwise we can't detect changes
         $current_issues = EPrints::Utils::clone( $current_issues );
 
+        my @updated_issues;
+
         # update existing issues
         foreach my $issue (@$current_issues)
         {
@@ -276,18 +279,24 @@ sub _set_item_issues($$)
                 {
                         ## $issue->{status} = "autoresolved";
                 }
+
+                # check current issue still refers to an existing eprint
+                my $item_id = substr $issue->{id}, rindex( $issue->{id}, "_" )+1 ;
+                if( exists( $ids{$item_id} ) )
+                {
+                    push @updated_issues, $issue;
+                }
         }
 
         # append all other new issues
         foreach my $new_issue (@$new_issues)
         {
                 next if !exists $issues_map{$new_issue->{id}};
-                push @$current_issues, $new_issue;
+                push @updated_issues, $new_issue;
         }
 
-        $self->set_value( "item_issues2", $current_issues ); # key difference
+        $self->set_value( "item_issues2", \@updated_issues ); # key difference
 }
-
 
 
 

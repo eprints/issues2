@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://git.dev.ac.uk/id/epm/issues2'>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://bazaar.eprints.org/id/epm/issues2'>
   <epmid>issues2</epmid>
-  <eprintid>529</eprintid>
-  <uri>http://bazaar.eprints.org/id/epm/issues2</uri>
+  <eprintid>546</eprintid>
   <documents>
-    <document id='http://git.dev.ac.uk/id/document/2895'>
-      <docid>2895</docid>
+    <document id='http://bazaar.eprints.org/id/document/2961'>
+      <docid>2961</docid>
       <rev_number>1</rev_number>
       <files>
-        <file id='http://git.dev.ac.uk/id/file/13268'>
-          <fileid>13268</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13830'>
+          <fileid>13830</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>bin/issues_audit2</filename>
           <mime_type>text/x-perl</mime_type>
           <hash>87deafd3e54a0c883d6ca1fe5af15ed9</hash>
           <hash_type>MD5</hash_type>
           <filesize>7509</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/bin/issues_audit2</url>
           <data encoding='base64'>IyEvdXNyL2Jpbi9wZXJsIC13Cgp1c2UgRmluZEJpbjsKdXNlIGxpYiAiJEZpbmRCaW46OkJpbi8u
 Li8uLi9wZXJsX2xpYiI7CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMj
 IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMKIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMj
@@ -152,16 +152,17 @@ dWJsaWMgTGljZW5zZQphbG9uZyB3aXRoIEVQcmludHMuICBJZiBub3QsIHNlZSBMPGh0dHA6Ly93
 d3cuZ251Lm9yZy9saWNlbnNlcy8+LgoKPWZvciBMSUNFTlNFIEVORAoK
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13269'>
-          <fileid>13269</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13831'>
+          <fileid>13831</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>cfg.d/issues_search2.pl</filename>
           <mime_type>text/plain</mime_type>
           <hash>9c04c101552254dee23fd11b0abc60d7</hash>
           <hash_type>MD5</hash_type>
           <filesize>1048</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/cfg.d/issues_search2.pl</url>
           <data encoding='base64'>CiRjLT57aXNzdWVzX3NlYXJjaDJ9ID0KewoJc2VhcmNoX2ZpZWxkcyA9PiBbCgkJeyBtZXRhX2Zp
 ZWxkcyA9PiBbICJpdGVtX2lzc3VlczJfdHlwZSIgXSB9LAojCQl7IG1ldGFfZmllbGRzID0+IFsg
 Iml0ZW1faXNzdWVzMl90aW1lc3RhbXAiIF0gfSwKCQl7IG1ldGFfZmllbGRzID0+IFsgInVzZXJp
@@ -183,16 +184,17 @@ c29sdmVkIiwgZGVzY3JpYmUgPT4gMCB9ICMgbm90IGlnbm9yZWQKICAgICAgICBdLAoJc2hvd196
 ZXJvX3Jlc3VsdHMgPT4gMCwKfTsKCg==
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13270'>
-          <fileid>13270</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13832'>
+          <fileid>13832</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>cfg.d/z_issues2.pl</filename>
           <mime_type>text/plain</mime_type>
-          <hash>31dee5faec23a2c04f1ab68133b5329a</hash>
+          <hash>9a6b15aca22186094b06ad592abd105e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4632</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>4754</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/cfg.d/z_issues2.pl</url>
           <data encoding='base64'>cHVzaCBAeyRjLT57ZmllbGRzfS0+e2VwcmludH19LAogICAgICAgIHsKICAgICAgICAgICAgICAg
 IG5hbWU9PiJpdGVtX2lzc3VlczIiLAogICAgICAgICAgICAgICAgdHlwZT0+ImNvbXBvdW5kIiwK
 ICAgICAgICAgICAgICAgIG11bHRpcGxlPT4xLAogICAgICAgICAgICAgICAgZmllbGRzID0+IFsK
@@ -274,19 +276,22 @@ CiAgICAgICAgcmV0dXJuICRvbDsKfTsKCiRjLT57cGx1Z2luc30tPnsiU2NyZWVuOjpTdGFmZjo6
 SXNzdWVTZWFyY2gyIn0tPntwYXJhbXN9LT57ZGlzYWJsZX0gPSAwOwokYy0+e3BsdWdpbnN9LT57
 IlNjcmVlbjo6RVByaW50OjpJc3N1ZXMyIn0tPntwYXJhbXN9LT57ZGlzYWJsZX0gPSAwOwokYy0+
 e3BsdWdpbnN9LT57IlNjcmVlbjo6RVByaW50OjpJc3N1ZXMyU3VtbWFyeSJ9LT57cGFyYW1zfS0+
-e2Rpc2FibGV9ID0gMDsK
+e2Rpc2FibGV9ID0gMDsKCiMgYWRkaXRpb25hbCBmaWVsZHMgbm90IHRvIGxpc3QgaW4gdGhlIGNv
+bXBhcmUgYW5kIG1lcmdlIHNjcmVlbgokYy0+e2lzc3VlczJfZXhjbHVzaW9uc30gPSAKewogICMg
+Y3JlYXRvcnNfbmFtZSA9PiAxLAp9Owo=
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13271'>
-          <fileid>13271</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13833'>
+          <fileid>13833</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>citations/eprint/brief_info.xml</filename>
           <mime_type>application/xml</mime_type>
           <hash>df14d03d6383349ca5856dac8d1d6f2a</hash>
           <hash_type>MD5</hash_type>
           <filesize>268</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/citations/eprint/brief_info.xml</url>
           <data encoding='base64'>PD94bWwgdmVyc2lvbj0iMS4wIiA/PgoKPGNpdGU6Y2l0YXRpb24geG1sbnM9Imh0dHA6Ly93d3cu
 dzMub3JnLzE5OTkveGh0bWwiIHhtbG5zOmNpdGU9Imh0dHA6Ly9lcHJpbnRzLm9yZy9lcDMvY2l0
 YXRpb24iIHhtbG5zOmVwYz0iaHR0cDovL2VwcmludHMub3JnL2VwMy9jb250cm9sIiB0eXBlPSJ0
@@ -294,16 +299,17 @@ YWJsZV9yb3ciPgo8YnIvPjxlcGM6cHJpbnQgZXhwcj0iZXByaW50X3N0YXR1cyIvPiwgPGVwYzpw
 cmludCBleHByPSJ1c2VyaWQiLz4tIAo8L2NpdGU6Y2l0YXRpb24+Cg==
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13272'>
-          <fileid>13272</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13834'>
+          <fileid>13834</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>citations/eprint/issue2.xml</filename>
           <mime_type>application/xml</mime_type>
           <hash>81ee034e23ba6890867b35aab1611ce2</hash>
           <hash_type>MD5</hash_type>
           <filesize>546</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/citations/eprint/issue2.xml</url>
           <data encoding='base64'>PD94bWwgdmVyc2lvbj0iMS4wIiA/PgoKPGNpdGU6Y2l0YXRpb24geG1sbnM9Imh0dHA6Ly93d3cu
 dzMub3JnLzE5OTkveGh0bWwiIHhtbG5zOmNpdGU9Imh0dHA6Ly9lcHJpbnRzLm9yZy9lcDMvY2l0
 YXRpb24iIHhtbG5zOmVwYz0iaHR0cDovL2VwcmludHMub3JnL2VwMy9jb250cm9sIiB0eXBlPSJ0
@@ -316,30 +322,32 @@ ICAgICAgICA8ZXBjOnByaW50IGV4cHI9Iml0ZW1faXNzdWVzMiIvPgogICAgICA8L2Rpdj4KICAg
 IDwvdGQ+CiAgPC90cj4KPC9jaXRlOmNpdGF0aW9uPgoK
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13273'>
-          <fileid>13273</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13835'>
+          <fileid>13835</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>epm/issues2/cfg/namedsets/issues2</filename>
           <mime_type>text/plain</mime_type>
-          <hash>7ecc3e641a4e745668b163a0dce666da</hash>
+          <hash>e2f914382e832ce8d131b16569fc5ecd</hash>
           <hash_type>MD5</hash_type>
-          <filesize>92</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>93</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/epm/issues2/cfg/namedsets/issues2</url>
           <data encoding='base64'>IyByZWdpc3RlciBpc3N1ZXMyIHBsdWdpbnMgaGVyZQpkdXBsaWNhdGVfZG9pCmR1cGxpY2F0ZV9p
-c2JuCmR1cGxpY2F0ZV9pc3NuCmR1cGxpY2F0ZV90aXRsZQo=
+c2JuCiNkdXBsaWNhdGVfaXNzbgpkdXBsaWNhdGVfdGl0bGUK
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13274'>
-          <fileid>13274</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13836'>
+          <fileid>13836</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>epm/issues2/cgi/issues2ack</filename>
           <mime_type>text/plain</mime_type>
           <hash>94fbcc99b235b4e5a8fe7141565d7658</hash>
           <hash_type>MD5</hash_type>
           <filesize>845</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/epm/issues2/cgi/issues2ack</url>
           <data encoding='base64'>dXNlIEVQcmludHM7CnVzZSBzdHJpY3Q7CgpteSAkc2Vzc2lvbiA9IG5ldyBFUHJpbnRzOjpTZXNz
 aW9uOwpleGl0KCAwICkgdW5sZXNzKCBkZWZpbmVkICRzZXNzaW9uICk7CgpteSAkdXNlciA9ICRz
 ZXNzaW9uLT5jdXJyZW50X3VzZXI7CmV4aXQgdW5sZXNzICR1c2VyLT5nZXRfdHlwZSBlcSAiYWRt
@@ -357,16 +365,17 @@ c30gPSAkc3RhdGU7CiAgICAkZXByaW50LT5zZXRfdmFsdWUoICJpdGVtX2lzc3VlczIiLCAkaXNz
 dWVzICk7CiAgICAkZXByaW50LT5jb21taXQoMSk7CiAgICBsYXN0OwogIH0KfQo=
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13275'>
-          <fileid>13275</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13837'>
+          <fileid>13837</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>epm/issues2/cgi/issues2merge</filename>
           <mime_type>text/plain</mime_type>
           <hash>0fa95077716d4e85cdd62f738115e682</hash>
           <hash_type>MD5</hash_type>
           <filesize>985</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/epm/issues2/cgi/issues2merge</url>
           <data encoding='base64'>dXNlIEVQcmludHM7CnVzZSBzdHJpY3Q7CgpteSAkc2Vzc2lvbiA9IG5ldyBFUHJpbnRzOjpTZXNz
 aW9uOwpleGl0KCAwICkgdW5sZXNzKCBkZWZpbmVkICRzZXNzaW9uICk7CgpteSAkdXNlciA9ICRz
 ZXNzaW9uLT5jdXJyZW50X3VzZXI7CmV4aXQgdW5sZXNzICR1c2VyLT5nZXRfdHlwZSBlcSAiYWRt
@@ -387,16 +396,17 @@ ICR2ICk7CiAgICAkbmVlZF9jb21taXQgPSAxOwogIH0KfQoKJGVwcmludDEtPmNvbW1pdCgxKSBp
 ZiAkbmVlZF9jb21taXQ7Cg==
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13276'>
-          <fileid>13276</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13838'>
+          <fileid>13838</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>lang/en/phrases/issues2.xml</filename>
           <mime_type>application/xml</mime_type>
-          <hash>c037268a7ec6ce0169b88ae1f72ac889</hash>
+          <hash>853835c3c2f46809f6e0027191d15e0a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2464</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>2548</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/lang/en/phrases/issues2.xml</url>
           <data encoding='base64'>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBwaHJhc2VzIFNZU1RFTSAiZW50aXRpZXMuZHRkIj4KPGVwcDpwaHJhc2VzIHhtbG5z
 PSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxuczplcHA9Imh0dHA6Ly9lcHJpbnRz
@@ -439,20 +449,22 @@ bnRfZmllbGRvcHRfaXRlbV9pc3N1ZXMyX3N0YXR1c19hdXRvcmVzb2x2ZWQiPkF1dG8gUmVzb2x2
 ZWQ8L2VwcDpwaHJhc2U+CjxlcHA6cGhyYXNlIGlkPSJlcHJpbnRfZmllbGRvcHRfaXRlbV9pc3N1
 ZXMyX3N0YXR1c19yZXBvcnRlZCI+UmVwb3J0ZWQ8L2VwcDpwaHJhc2U+CjxlcHA6cGhyYXNlIGlk
 PSJlcHJpbnRfZmllbGRvcHRfaXRlbV9pc3N1ZXMyX3N0YXR1c19yZXNvbHZlZCI+UmVzb2x2ZWQ8
-L2VwcDpwaHJhc2U+Cgo8IS0tCjxlcHA6cGhyYXNlIGlkPSIiPjwvZXBwOnBocmFzZT4KLS0+Cjwv
-ZXBwOnBocmFzZXM+Cg==
+L2VwcDpwaHJhc2U+Cgo8ZXBwOnBocmFzZSBpZD0iUGx1Z2luL1NjcmVlbi9FUHJpbnQvSXNzdWVz
+MlN1bW1hcnk6dGl0bGUiPkR1cGxpY2F0ZXM8L2VwcDpwaHJhc2U+Cgo8IS0tCjxlcHA6cGhyYXNl
+IGlkPSIiPjwvZXBwOnBocmFzZT4KLS0+CjwvZXBwOnBocmFzZXM+Cg==
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13277'>
-          <fileid>13277</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13839'>
+          <fileid>13839</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2.pm</filename>
           <mime_type>text/plain</mime_type>
-          <hash>c15c3236e3e3e2156d31f6ba94c63c0b</hash>
+          <hash>1e653ce8607f6de77d9f3197c4a58adb</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4122</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>4001</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2.pm</url>
           <data encoding='base64'>PWhlYWQxIE5BTUUKCkVQcmludHM6OlBsdWdpbjo6SXNzdWVzMgoKPWN1dAoKcGFja2FnZSBFUHJp
 bnRzOjpQbHVnaW46Oklzc3VlczI7Cgp1c2Ugc3RyaWN0OwoKb3VyIEBJU0EgPSBxdy8gRVByaW50
 czo6UGx1Z2luIC87CgokRVByaW50czo6UGx1Z2luOjpJc3N1ZXMyOjpESVNBQkxFID0gMTsKCnN1
@@ -492,52 +504,51 @@ dGF0dXMiKSBlcSAiZGVsZXRpb24iOwoKCQkJJGRlc2MtPmFwcGVuZENoaWxkKCAkc2Vzc2lvbi0+
 bWFrZV90ZXh0KCAiIF0iICkgKTsKCgkJCWlmICggJGVwcmludC0+Z2V0X3ZhbHVlKCJlcHJpbnRf
 c3RhdHVzIikgbmUgImRlbGV0aW9uIiApCgkJCXsKCQkJCW15ICRjb21wYXJlID0gJHNlc3Npb24t
 Pm1ha2VfZWxlbWVudCggImEiLCBocmVmPT4iIyIsICJvbmNsaWNrIiA9PiAicmV0dXJuIGlzc3Vl
-czJfY29tcGFyZSggXCQodGhpcykudXAoMykucmVhZEF0dHJpYnV0ZSgnZXByaW50aWQnKSwgJGlk
-ICk7IiwgImNsYXNzIiA9PiAiZXBfaXNzdWVzMl9jb21wYXJlIiApOwoJCQkJJGNvbXBhcmUtPmFw
-cGVuZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV90ZXh0KCAiQ29tcGFyZSAmIE1lcmdlIiApICk7CgkJ
-CQkkZGVzYy0+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5tYWtlX3RleHQoICIgWyAiICkgKTsKCQkJ
-CSRkZXNjLT5hcHBlbmRDaGlsZCggJGNvbXBhcmUgKTsKCQkJCSRkZXNjLT5hcHBlbmRDaGlsZCgg
-JHNlc3Npb24tPm1ha2VfdGV4dCggIiBdIiApICk7CgkJCX0KCgkJCW15ICRhY2sgPSAkc2Vzc2lv
-bi0+bWFrZV9lbGVtZW50KCAiYSIsIGhyZWY9PiIjIiwKCQkJCSJvbmNsaWNrIiA9PiAiaWYoIGlz
-c3VlczJfYWNrKCBcJCh0aGlzKS51cCgzKS5yZWFkQXR0cmlidXRlKCdlcHJpbnRpZCcpLCBcJCh0
-aGlzKS51cCgxKS5yZWFkQXR0cmlidXRlKCdlcF9pc3N1ZV9saXN0X2lkJykpICkgeyBcJCh0aGlz
-KS51cCgxKS5zZXRTdHlsZSggeyAnZm9udC1zdHlsZSc6ICdpdGFsaWMnLCAnY29sb3InOiAnI2Ji
-YmJiYicgfSApOyB9IiwKCQkJCSJjbGFzcyIgPT4gImVwX2lzc3VlczJfYWNrIgoJCQkpOwoJCQkk
-YWNrLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfdGV4dCggIkFja25vd2xlZGdlIiApICk7
-CgkJCSRkZXNjLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfdGV4dCggIiBbICIgKSApOwoJ
-CQkkZGVzYy0+YXBwZW5kQ2hpbGQoICRhY2sgKTsKCQkJJGRlc2MtPmFwcGVuZENoaWxkKCAkc2Vz
-c2lvbi0+bWFrZV90ZXh0KCAiIF0iICkgKTsKCgkJCU9USEVSOiBmb3JlYWNoIG15ICRpZDIgKCBA
-c2V0ICkKCQkJewoJCQkJbmV4dCBPVEhFUiBpZiAkaWQgPT0gJGlkMjsKCQkJCXB1c2ggQHskaW5m
-by0+e2lzc3Vlc30tPnskaWQyfX0sIHsKCQkJCQl0eXBlID0+ICRwbHVnaW4tPnt0eXBlfSwKCQkJ
-CQlpZCA9PiAkcGx1Z2luLT57dHlwZX0gLiAiXyIgLiAkaWQsCgkJCQkJZGVzY3JpcHRpb24gPT4g
-JGRlc2MsCgkJCQl9OwoJCQl9CgoJCX0KCX0KfQoKIyBub3JtYWxpc2UgdGhlIGlucHV0IGJlZm9y
-ZSBjb21wYXJpc29ucywgZWcgbG93ZXJjYXNlIGl0IGFuZCByZW1vdmUgZXhjZXNzIHdoaXRlIHNw
-YWNlCnN1YiBub3JtYWxpc2UKewoJbXkoICRwbHVnaW4sICRzdHJpbmcgKSA9IEBfOwoKCXJldHVy
-biAkc3RyaW5nOwp9CgojIGluZm8gaXMgdGhlIGRhdGEgYmxvY2sgYmVpbmcgdXNlZCB0byBzdG9y
-ZSBjdW11bGF0aXZlIGluZm9ybWF0aW9uIGZvciBwcm9jZXNzaW5nIGF0IHRoZSBlbmQuCnN1YiBw
-cm9jZXNzX2l0ZW1faW5fbGlzdAp7CglteSggJHBsdWdpbiwgJGl0ZW0sICRpbmZvICkgPSBAXzsK
-CglteSAkdmFsdWUgPSAkaXRlbS0+Z2V0X3ZhbHVlKCAkcGx1Z2luLT57ZmllbGR9ICk7CglyZXR1
-cm4gaWYgIWRlZmluZWQgJHZhbHVlOwoKCSR2YWx1ZSA9ICRwbHVnaW4tPm5vcm1hbGlzZSggJHZh
-bHVlICk7CglyZXR1cm4gaWYgIWRlZmluZWQgJHZhbHVlOwoKCXB1c2ggQHsgJGluZm8tPnsgJHBs
-dWdpbi0+e2ZpZWxkbWFwfSB9LT57ICR2YWx1ZSB9IH0sICRpdGVtLT5nZXRfaWQ7Cn0KCiMgcmV0
-dXJuIGFuIGFycmF5IG9mIGlzc3Vlcy4gSXNzdWVzIHNob3VsZCBiZSBvZiB0aGUgdHlwZQojIHsg
-ZGVzY3JpcHRpb249PlhIVE1MRE9NLCB0eXBlPT5zdHJpbmcgfQojIGlmIG9uZSBpdGVtIGNhbiBo
-YXZlIG11bHRpcGxlIG9jY3VyYW5jZXMgb2YgdGhlIHNhbWUgaXNzdWUgdHlwZSB0aGVuIGFkZAoj
-IGFuIGlkIGZpZWxkIHRvby4gVGhpcyBvbmx5IG5lZWQgdG8gYmUgdW5pcXVlIHdpdGhpbiB0aGUg
-aXRlbS4Kc3ViIGl0ZW1faXNzdWVzCnsKCW15KCAkcGx1Z2luLCAkZGF0YW9iaiApID0gQF87CgkK
-CXJldHVybiAoKTsKfQoKMTsK
+czJfY29tcGFyZSggdGhpcywgJGlkICk7IiwgImNsYXNzIiA9PiAiZXBfaXNzdWVzMl9jb21wYXJl
+IiApOwoJCQkJJGNvbXBhcmUtPmFwcGVuZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV90ZXh0KCAiQ29t
+cGFyZSAmIE1lcmdlIiApICk7CgkJCQkkZGVzYy0+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5tYWtl
+X3RleHQoICIgWyAiICkgKTsKCQkJCSRkZXNjLT5hcHBlbmRDaGlsZCggJGNvbXBhcmUgKTsKCQkJ
+CSRkZXNjLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfdGV4dCggIiBdIiApICk7CgkJCX0K
+CgkJCW15ICRhY2sgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiYSIsIGhyZWY9PiIjIiwKCQkJ
+CSJvbmNsaWNrIiA9PiAiaWYoIGlzc3VlczJfYWNrKCB0aGlzICkgKSB7IFwkKHRoaXMpLnVwKDEp
+LnNldFN0eWxlKCB7ICdmb250LXN0eWxlJzogJ2l0YWxpYycsICdjb2xvcic6ICcjYmJiYmJiJyB9
+ICk7IH0iLAoJCQkJImNsYXNzIiA9PiAiZXBfaXNzdWVzMl9hY2siCgkJCSk7CgkJCSRhY2stPmFw
+cGVuZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV90ZXh0KCAiQWNrbm93bGVkZ2UiICkgKTsKCQkJJGRl
+c2MtPmFwcGVuZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV90ZXh0KCAiIFsgIiApICk7CgkJCSRkZXNj
+LT5hcHBlbmRDaGlsZCggJGFjayApOwoJCQkkZGVzYy0+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5t
+YWtlX3RleHQoICIgXSIgKSApOwoKCQkJT1RIRVI6IGZvcmVhY2ggbXkgJGlkMiAoIEBzZXQgKQoJ
+CQl7CgkJCQluZXh0IE9USEVSIGlmICRpZCA9PSAkaWQyOwoJCQkJcHVzaCBAeyRpbmZvLT57aXNz
+dWVzfS0+eyRpZDJ9fSwgewoJCQkJCXR5cGUgPT4gJHBsdWdpbi0+e3R5cGV9LAoJCQkJCWlkID0+
+ICRwbHVnaW4tPnt0eXBlfSAuICJfIiAuICRpZCwKCQkJCQlkZXNjcmlwdGlvbiA9PiAkZGVzYywK
+CQkJCX07CgkJCX0KCgkJfQoJfQp9CgojIG5vcm1hbGlzZSB0aGUgaW5wdXQgYmVmb3JlIGNvbXBh
+cmlzb25zLCBlZyBsb3dlcmNhc2UgaXQgYW5kIHJlbW92ZSBleGNlc3Mgd2hpdGUgc3BhY2UKc3Vi
+IG5vcm1hbGlzZQp7CglteSggJHBsdWdpbiwgJHN0cmluZyApID0gQF87CgoJcmV0dXJuICRzdHJp
+bmc7Cn0KCiMgaW5mbyBpcyB0aGUgZGF0YSBibG9jayBiZWluZyB1c2VkIHRvIHN0b3JlIGN1bXVs
+YXRpdmUgaW5mb3JtYXRpb24gZm9yIHByb2Nlc3NpbmcgYXQgdGhlIGVuZC4Kc3ViIHByb2Nlc3Nf
+aXRlbV9pbl9saXN0CnsKCW15KCAkcGx1Z2luLCAkaXRlbSwgJGluZm8gKSA9IEBfOwoKCW15ICR2
+YWx1ZSA9ICRpdGVtLT5nZXRfdmFsdWUoICRwbHVnaW4tPntmaWVsZH0gKTsKCXJldHVybiBpZiAh
+ZGVmaW5lZCAkdmFsdWU7CgoJJHZhbHVlID0gJHBsdWdpbi0+bm9ybWFsaXNlKCAkdmFsdWUgKTsK
+CXJldHVybiBpZiAhZGVmaW5lZCAkdmFsdWU7CgoJcHVzaCBAeyAkaW5mby0+eyAkcGx1Z2luLT57
+ZmllbGRtYXB9IH0tPnsgJHZhbHVlIH0gfSwgJGl0ZW0tPmdldF9pZDsKfQoKIyByZXR1cm4gYW4g
+YXJyYXkgb2YgaXNzdWVzLiBJc3N1ZXMgc2hvdWxkIGJlIG9mIHRoZSB0eXBlCiMgeyBkZXNjcmlw
+dGlvbj0+WEhUTUxET00sIHR5cGU9PnN0cmluZyB9CiMgaWYgb25lIGl0ZW0gY2FuIGhhdmUgbXVs
+dGlwbGUgb2NjdXJhbmNlcyBvZiB0aGUgc2FtZSBpc3N1ZSB0eXBlIHRoZW4gYWRkCiMgYW4gaWQg
+ZmllbGQgdG9vLiBUaGlzIG9ubHkgbmVlZCB0byBiZSB1bmlxdWUgd2l0aGluIHRoZSBpdGVtLgpz
+dWIgaXRlbV9pc3N1ZXMKewoJbXkoICRwbHVnaW4sICRkYXRhb2JqICkgPSBAXzsKCQoJcmV0dXJu
+ICgpOwp9CgoxOwo=
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13278'>
-          <fileid>13278</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13840'>
+          <fileid>13840</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2/DuplicateDOI.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>97a0fd0d126dc2c2b09c93a55e3ec04a</hash>
           <hash_type>MD5</hash_type>
           <filesize>505</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2/DuplicateDOI.pm</url>
           <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46Oklzc3VlczI6OkR1cGxpY2F0ZURPSTsKQElTQSA9ICgg
 IkVQcmludHM6OlBsdWdpbjo6SXNzdWVzMiIgKTsKCnN1YiBuZXcKewoJbXkoICRjbGFzcywgJXBh
 cmFtcyApID0gQF87CgoJbXkgJHNlbGYgPSAkY2xhc3MtPlNVUEVSOjpuZXcoICVwYXJhbXMgKTsK
@@ -549,16 +560,17 @@ e2ZpZWxkfSAuICItbWFwIjsgIyBpbnRlcm5hbCBjYWNoZSBuYW1lCgkkc2VsZi0+e2Rpc2FibGV9
 ID0gMDsgIyBlbmFibGUgdGhpcyBwbHVnaW4KCglyZXR1cm4gJHNlbGY7Cn0KCjE7Cg==
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13279'>
-          <fileid>13279</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13841'>
+          <fileid>13841</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2/DuplicateISBN.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>d8e56421562df21807013ceef79aac70</hash>
           <hash_type>MD5</hash_type>
           <filesize>503</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2/DuplicateISBN.pm</url>
           <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46Oklzc3VlczI6OkR1cGxpY2F0ZUlTQk47CkBJU0EgPSAo
 ICJFUHJpbnRzOjpQbHVnaW46Oklzc3VlczIiICk7CgpzdWIgbmV3CnsKCW15KCAkY2xhc3MsICVw
 YXJhbXMgKSA9IEBfOwoKCW15ICRzZWxmID0gJGNsYXNzLT5TVVBFUjo6bmV3KCAlcGFyYW1zICk7
@@ -570,37 +582,17 @@ aWVsZH0gLiAiLW1hcCI7ICMgaW50ZXJuYWwgY2FjaGUgbmFtZQoJJHNlbGYtPntkaXNhYmxlfSA9
 IDA7ICMgZW5hYmxlIHRoaXMgcGx1Z2luCgoJcmV0dXJuICRzZWxmOwp9CgoxOwo=
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13280'>
-          <fileid>13280</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13842'>
+          <fileid>13842</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
-          <filename>plugins/EPrints/Plugin/Issues2/DuplicateISSN.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>faf60b87b87a842081a2983e81e060be</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>503</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
-          <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46Oklzc3VlczI6OkR1cGxpY2F0ZUlTU047CkBJU0EgPSAo
-ICJFUHJpbnRzOjpQbHVnaW46Oklzc3VlczIiICk7CgpzdWIgbmV3CnsKCW15KCAkY2xhc3MsICVw
-YXJhbXMgKSA9IEBfOwoKCW15ICRzZWxmID0gJGNsYXNzLT5TVVBFUjo6bmV3KCAlcGFyYW1zICk7
-CgoJJHNlbGYtPnt0eXBlfSA9ICJkdXBsaWNhdGVfaXNzbiI7CSMgaW50ZXJuYWwgbmFtZSBvZiBp
-c3N1ZSwgYWRkIHRvIG5hbWVkc2V0cy9pc3N1ZXMyCgkkc2VsZi0+e25hbWV9ID0gIkR1cGxpY2F0
-ZSBJU1NOcyI7CSMgaHVtYW4gcmVhZGFibGUgbmFtZQoJJHNlbGYtPntmaWVsZH0gPSAiaXNzbiI7
-CQkjIGZpZWxkIHRvIHRlc3QgYWdhaW5zdAoKCSRzZWxmLT57ZmllbGRtYXB9ID0gJHNlbGYtPntm
-aWVsZH0gLiAiLW1hcCI7ICMgaW50ZXJuYWwgY2FjaGUgbmFtZQoJJHNlbGYtPntkaXNhYmxlfSA9
-IDA7ICMgZW5hYmxlIHRoaXMgcGx1Z2luCgoJcmV0dXJuICRzZWxmOwp9CgoxOwo=
-</data>
-        </file>
-        <file id='http://git.dev.ac.uk/id/file/13281'>
-          <fileid>13281</fileid>
-          <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2/DuplicateTitle.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>7c95d856f329c84cfb3d4d0fbf428314</hash>
           <hash_type>MD5</hash_type>
           <filesize>702</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2/DuplicateTitle.pm</url>
           <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46Oklzc3VlczI6OkR1cGxpY2F0ZVRpdGxlOwpASVNBID0g
 KCAiRVByaW50czo6UGx1Z2luOjpJc3N1ZXMyIiApOwoKc3ViIG5ldwp7CglteSggJGNsYXNzLCAl
 cGFyYW1zICkgPSBAXzsKCglteSAkc2VsZiA9ICRjbGFzcy0+U1VQRVI6Om5ldyggJXBhcmFtcyAp
@@ -616,16 +608,17 @@ Y2UKCSRzdHJpbmcgPSBsYygkc3RyaW5nKTsJCSMgbG93ZXJjYXNlIHRoZSBzdHJpbmcKCglyZXR1
 cm4gJHN0cmluZzsKfQoKMTsK
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13282'>
-          <fileid>13282</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13843'>
+          <fileid>13843</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/Issues2.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>b9227c7f519d4bf131f18cdc06b10233</hash>
           <hash_type>MD5</hash_type>
           <filesize>705</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/EPMC/Issues2.pm</url>
           <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46OlNjcmVlbjo6RVBNQzo6SXNzdWVzMjsKCkBJU0EgPSAo
 ICdFUHJpbnRzOjpQbHVnaW46OlNjcmVlbjo6RVBNQycgKTsKCnVzZSBzdHJpY3Q7CgpzdWIgbmV3
 CnsKICBteSggJGNsYXNzLCAlcGFyYW1zICkgPSBAXzsKCiAgbXkgJHNlbGYgPSAkY2xhc3MtPlNV
@@ -641,16 +634,17 @@ ICRyZXBvID0gJHNlbGYtPntyZXBvc2l0b3J5fTsKCiAgJHNlbGYtPnJlbG9hZF9jb25maWcgaWYg
 ISRza2lwX3JlbG9hZDsKfQoKMTsK
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13283'>
-          <fileid>13283</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13844'>
+          <fileid>13844</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>06c09791d0b38cf54b7c1527d30585ab</hash>
           <hash_type>MD5</hash_type>
           <filesize>779</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/EPrint/Issues2.pm</url>
           <data encoding='base64'>PWhlYWQxIE5BTUUKCkVQcmludHM6OlBsdWdpbjo6U2NyZWVuOjpFUHJpbnQ6Oklzc3VlczIKCj1j
 dXQKCnBhY2thZ2UgRVByaW50czo6UGx1Z2luOjpTY3JlZW46OkVQcmludDo6SXNzdWVzMjsKCm91
 ciBASVNBID0gKCAnRVByaW50czo6UGx1Z2luOjpTY3JlZW46OkVQcmludCcgKTsKCnVzZSBzdHJp
@@ -667,16 +661,17 @@ CXsKCQkkcGFnZS0+YXBwZW5kQ2hpbGQoICRlcHJpbnQtPnJlbmRlcl92YWx1ZSggIml0ZW1faXNz
 dWVzMiIgKSApOwoJfQoKCXJldHVybiAkcGFnZTsKfQoKCgoxOwo=
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13284'>
-          <fileid>13284</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13845'>
+          <fileid>13845</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2Summary.pm</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9062f6bba29f869c9cb6d898f824a1c5</hash>
+          <hash>bd48e084024667128ce72d030be1d3c1</hash>
           <hash_type>MD5</hash_type>
-          <filesize>6207</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>6341</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/EPrint/Issues2Summary.pm</url>
           <data encoding='base64'>PWhlYWQxIE5BTUUKCkVQcmludHM6OlBsdWdpbjo6U2NyZWVuOjpFUHJpbnQ6Oklzc3VlczJTdW1t
 YXJ5Cgo9Y3V0CgpwYWNrYWdlIEVQcmludHM6OlBsdWdpbjo6U2NyZWVuOjpFUHJpbnQ6Oklzc3Vl
 czJTdW1tYXJ5OwoKb3VyIEBJU0EgPSAoICdFUHJpbnRzOjpQbHVnaW46OlNjcmVlbjo6RVByaW50
@@ -710,94 +705,98 @@ ZW1lbnQoICJ0aCIgKSApOwoJJHRyMS0+YXBwZW5kQ2hpbGQoICR0aDEgKTsKCSR0cjEtPmFwcGVu
 ZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAidGgiICkgKTsKCSR0cjEtPmFwcGVuZENo
 aWxkKCAkdGgyICk7CgoJJHRhYmxlLT5hcHBlbmRDaGlsZCggJHRyMSApOwoKCW15ICRkcyA9ICRz
 ZXNzaW9uLT5kYXRhc2V0KCAiZXByaW50IiApOwoJcmV0dXJuICRwYWdlIHVubGVzcyBkZWZpbmVk
-ICRkczsKCglteSBAZmllbGRzID0gJGRzLT5maWVsZHM7CgoJIyBpdGVyYXRlIG92ZXIgdGhlIGZp
-ZWxsZHMgY29tcGFyaW5nIHRoZSAyIHJlY29yZHMKCWZvcmVhY2ggbXkgJGZpZWxkIChAZmllbGRz
-KQoJewoJCW15ICRuID0gICRmaWVsZC0+bmFtZTsKCQlteSAkbmFtZSA9ICAkZmllbGQtPnJlbmRl
-cl9uYW1lOwoJCW15ICR0ID0gJGZpZWxkLT50eXBlOwoKCQlteSAkc3RyaW5nMSA9IEVQcmludHM6
-OlV0aWxzOjp0cmVlX3RvX3V0ZjgoICRlcHJpbnQxLT5yZW5kZXJfdmFsdWUoICRuICkgKTsKCQlt
-eSAkc3RyaW5nMiA9IEVQcmludHM6OlV0aWxzOjp0cmVlX3RvX3V0ZjgoICRlcHJpbnQyLT5yZW5k
-ZXJfdmFsdWUoICRuICkgKTsKCgkJIyByZXBvcnQgYSBkaWZmZXJlbmNlIHVubGVzcyBpdHMgYSBm
-aWVsZCB3aGljaCB3aWxsIGFsd2F5cyBkaWZmZXIgb3Igd2UgZG9udCB3YW50IHRvIHJlcG9ydCBv
-bgoJCWlmKCAkbiAhfiAvXihlcHJpbnRpZHx0eXBlfHJldl9udW1iZXJ8ZGlyfGRhdGVzdGFtcHxs
-YXN0bW9kfHN0YXR1c19jaGFuZ2VkfGZpbGVpbmZvKSQvICYmIAoJCSAgICAkbiAhfiAvXihpdGVt
-X2lzc3Vlc3xlZGl0X2xvY2t8ZG9jdW1lbnRzKS8gICYmIAoJCSAgICAkbiAhfiAvKF9kYXRlc3Rh
-bXApJC8gICYmIAoJCSAgICAkdCBuZSAiY29tcG91bmQiICYmICMgc3ViIGZpZWxkcyBzaG93IHVw
-IHNlcGFyYXRlbHkKCQkgICAgJHN0cmluZzEgbmUgJHN0cmluZzIgKQoJCXsKCQkJbXkgJHRyID0g
-JHNlc3Npb24tPm1ha2VfZWxlbWVudCggInRyIiApOwoJCQlteSAkdGRhID0gJHNlc3Npb24tPm1h
-a2VfZWxlbWVudCggInRkIiwgc3R5bGUgPT4gInZlcnRpY2FsLWFsaWduOiB0b3A7IGJvcmRlcjog
-MXB4IHNvbGlkIHdoaXRlOyIgKTsKCQkJbXkgJHRkYiA9ICRzZXNzaW9uLT5tYWtlX2VsZW1lbnQo
-ICJ0ZCIsIHN0eWxlID0+ICJ2ZXJ0aWNhbC1hbGlnbjogdG9wOyBib3JkZXI6IDFweCBzb2xpZCBk
-YXJrZ3JheTsiICk7CgkJCW15ICR0ZGMgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAidGQiLCBz
-dHlsZSA9PiAidmVydGljYWwtYWxpZ246IHRvcDsgYm9yZGVyOiAxcHggc29paWQgd2hpdGU7IiAp
-OwoJCQlteSAkdGRkID0gJHNlc3Npb24tPm1ha2VfZWxlbWVudCggInRkIiwgc3R5bGUgPT4gInZl
-cnRpY2FsLWFsaWduOiB0b3A7IGJvcmRlcjogMXB4IHNvbGlkIHdoaXRlIiApOwoKCQkJbXkgJGNi
-ID0gJHNlc3Npb24tPm1ha2VfZWxlbWVudCggImlucHV0IiwgInR5cGUiID0+ICJjaGVja2JveCIs
-ICJuYW1lIiA9PiAiJG4iLCB2YWx1ZSA9PiAiMSIsICJjbGFzcyIgPT4gImVwX2lzc3VlczJfbWVy
-Z2UiICk7CgoJCQlteSAkbmFtZV9zcGFuID0gJHNlc3Npb24tPm1ha2VfZWxlbWVudCgic3BhbiIs
-IHN0eWxlID0+ICJmb250LXNpemU6IDgwJTsiKTsKCQkJJG5hbWVfc3Bhbi0+YXBwZW5kQ2hpbGQo
-ICRzZXNzaW9uLT5tYWtlX3RleHQoIiAoJG4pIikgKTsKCQkJJHRkYS0+YXBwZW5kQ2hpbGQoICRu
-YW1lICk7CgkJCSR0ZGEtPmFwcGVuZENoaWxkKCAkbmFtZV9zcGFuICk7CgoJCQkkdGRiLT5hcHBl
-bmRDaGlsZCggJGVwcmludDEtPnJlbmRlcl92YWx1ZSggJG4gKSApOwoJCQkkdGRjLT5hcHBlbmRD
-aGlsZCggJGNiICApOwoJCQkkdGRkLT5hcHBlbmRDaGlsZCggJGVwcmludDItPnJlbmRlcl92YWx1
-ZSggJG4gKSApOwoKCQkJJHRyLT5hcHBlbmRDaGlsZCggJHRkYSApOwoJCQkkdHItPmFwcGVuZENo
-aWxkKCAkdGRiICk7CgkJCSR0ci0+YXBwZW5kQ2hpbGQoICR0ZGMgKTsKCQkJJHRyLT5hcHBlbmRD
-aGlsZCggJHRkZCApOwogCgkJCSR0YWJsZS0+YXBwZW5kQ2hpbGQoICR0ciApOwoJCX0KCX0KCiAg
-ICAgICAgJHBhZ2UtPmFwcGVuZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV9qYXZhc2NyaXB0KCAidmFy
-IGVwcmludHNfaHR0cF9yb290PScvJzsiICkgKTsKICAgICAgICAkcGFnZS0+YXBwZW5kQ2hpbGQo
-ICRzZXNzaW9uLT5tYWtlX2phdmFzY3JpcHQoIHVuZGVmLCBzcmMgPT4gJHNlc3Npb24tPmN1cnJl
-bnRfdXJsKCBwYXRoID0+ICJzdGF0aWMiLCAiamF2YXNjcmlwdC9hdXRvLmpzIiApICkgKTsKCgkk
-cGFnZS0+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5tYWtlX3RleHQoICJDb21wYXJlIHRoZSBkaWZm
-ZXJlbmNlcyBiZXR3ZWVuIHRoZSB0d28gcmVjb3JkcywgdXNlIHRoZSBjaGVjayBib3hlcyB0byBt
-YXJrIHRob3NlIHRvIGJlIG1lcmdlZCBmcm9tIHJpZ2h0IHRvIGxlZnQsIHByZXNzIEFwcGx5IHRv
-IGNvbW1pdCB0aGUgY2hhbmdlcyBhbmQgY2xvc2UgdGhpcyB3aW5kb3cuIiApICk7CgkkcGFnZS0+
-YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5tYWtlX2VsZW1lbnQoICJiciIgKSApOwoKCXsKCQlteSAk
-c3VibWl0ID0gJHNlc3Npb24tPm1ha2VfZWxlbWVudCggImlucHV0IiwgInR5cGUiID0+ICJidXR0
-b24iLCAibmFtZSIgPT4gIm1lcmdlIiwgdmFsdWUgPT4gIkFwcGx5IGNoYW5nZXMgYW5kIGNsb3Nl
-IHdpbmRvdyIsICJvbmNsaWNrIiA9PiAiaXNzdWVzMl9tZXJnZSgkZXByaW50aWQxLCAkZXByaW50
-aWQyKTsiLCAic3R5bGUiID0+ICJmbG9hdDogcmlnaHQ7IiApOwoJCW15ICRjYW5jZWwgPSAkc2Vz
-c2lvbi0+bWFrZV9lbGVtZW50KCAiaW5wdXQiLCAidHlwZSIgPT4gImJ1dHRvbiIsICJuYW1lIiA9
-PiAiY2FuY2VsIiwgdmFsdWUgPT4gIkNhbmNlbCBjaGFuZ2VzIGFuZCBjbG9zZSB3aW5kb3ciLCAi
-b25jbGljayIgPT4gIndpbmRvdy5jbG9zZSgpIiwgInN0eWxlIiA9PiAiZmxvYXQ6IHJpZ2h0OyIg
-KTsKCQlteSAkc3dhcCA9ICRzZXNzaW9uLT5tYWtlX2VsZW1lbnQoICJpbnB1dCIsICJ0eXBlIiA9
-PiAiYnV0dG9uIiwgIm5hbWUiID0+ICJzd2FwIiwgdmFsdWUgPT4gIlJldmVyc2UgdmlldyIsICJv
-bmNsaWNrIiA9PiAid2luZG93LmxvY2F0aW9uID0gJy9jZ2kvdXNlcnMvaG9tZT9zY3JlZW49RVBy
-aW50OjpJc3N1ZXMyU3VtbWFyeSZlcHJpbnRpZD0kZXByaW50aWQyJmVwcmludGlkMj0kZXByaW50
-aWQxJm1haW5vbmx5PXllcyciLCAic3R5bGUiID0+ICJmbG9hdDogbGVmdDsiICk7CgkJJHBhZ2Ut
-PmFwcGVuZENoaWxkKCAkc3dhcCApOwoJCSRwYWdlLT5hcHBlbmRDaGlsZCggJHN1Ym1pdCApOwoJ
-CSRwYWdlLT5hcHBlbmRDaGlsZCggJGNhbmNlbCApOwoJfQoKCSRwYWdlLT5hcHBlbmRDaGlsZCgg
-JHNlc3Npb24tPm1ha2VfZWxlbWVudCggImJyIiApICk7CgkkcGFnZS0+YXBwZW5kQ2hpbGQoICR0
-YWJsZSApOwoKCSRwYWdlLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfZWxlbWVudCggImJy
-IiApICk7CgkkcGFnZS0+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5tYWtlX3RleHQoICJPbmNlIGNo
-YW5nZXMgaGF2ZSBiZWVuIG1hZGUsIHRoZXkgd2lsbCBiZSByZWZsZWN0ZWQgaW4gdGhlIHJlcG9y
-dHMgYWZ0ZXIgdGhlIG5leHQgYXVkaXQgaGFzIGJlZW4gcnVuLiIgKSApOwoJJHBhZ2UtPmFwcGVu
-ZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiYnIiICkgKTsKCSRwYWdlLT5hcHBlbmRD
-aGlsZCggJHNlc3Npb24tPm1ha2VfZWxlbWVudCggImJyIiApICk7CgoJewoJCW15ICRzdWJtaXQg
-PSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiaW5wdXQiLCAidHlwZSIgPT4gImJ1dHRvbiIsICJu
-YW1lIiA9PiAibWVyZ2UiLCB2YWx1ZSA9PiAiQXBwbHkgY2hhbmdlcyBhbmQgY2xvc2Ugd2luZG93
-IiwgIm9uY2xpY2siID0+ICJpc3N1ZXMyX21lcmdlKCRlcHJpbnRpZDEsICRlcHJpbnRpZDIpOyIs
-ICJzdHlsZSIgPT4gImZsb2F0OiByaWdodDsiICk7CgkJbXkgJGNhbmNlbCA9ICRzZXNzaW9uLT5t
-YWtlX2VsZW1lbnQoICJpbnB1dCIsICJ0eXBlIiA9PiAiYnV0dG9uIiwgIm5hbWUiID0+ICJjYW5j
-ZWwiLCB2YWx1ZSA9PiAiQ2FuY2VsIGNoYW5nZXMgYW5kIGNsb3NlIHdpbmRvdyIsICJvbmNsaWNr
-IiA9PiAid2luZG93LmNsb3NlKCkiLCAic3R5bGUiID0+ICJmbG9hdDogcmlnaHQ7IiApOwoJCW15
-ICRzd2FwID0gJHNlc3Npb24tPm1ha2VfZWxlbWVudCggImlucHV0IiwgInR5cGUiID0+ICJidXR0
-b24iLCAibmFtZSIgPT4gInN3YXAiLCB2YWx1ZSA9PiAiUmV2ZXJzZSB2aWV3IiwgIm9uY2xpY2si
-ID0+ICJ3aW5kb3cubG9jYXRpb24gPSAnL2NnaS91c2Vycy9ob21lP3NjcmVlbj1FUHJpbnQ6Oklz
-c3VlczJTdW1tYXJ5JmVwcmludGlkPSRlcHJpbnRpZDImZXByaW50aWQyPSRlcHJpbnRpZDEmbWFp
-bm9ubHk9eWVzJyIsICJzdHlsZSIgPT4gImZsb2F0OiBsZWZ0OyIgKTsKCQkkcGFnZS0+YXBwZW5k
-Q2hpbGQoICRzd2FwICk7CgkJJHBhZ2UtPmFwcGVuZENoaWxkKCAkc3VibWl0ICk7CgkJJHBhZ2Ut
-PmFwcGVuZENoaWxkKCAkY2FuY2VsICk7Cgl9CgoJcmV0dXJuICRwYWdlOwp9CQoKMTsK
+ICRkczsKCglteSBAZmllbGRzID0gJGRzLT5maWVsZHM7CglteSAkaXNzdWVzMl9leGNsdXNpb25z
+ID0gJHNlc3Npb24tPmdldF9yZXBvc2l0b3J5LT5nZXRfY29uZiggImlzc3VlczJfZXhjbHVzaW9u
+cyIgKTsKCSMgaXRlcmF0ZSBvdmVyIHRoZSBmaWVsbGRzIGNvbXBhcmluZyB0aGUgMiByZWNvcmRz
+Cglmb3JlYWNoIG15ICRmaWVsZCAoQGZpZWxkcykKCXsKCQlteSAkbiA9ICAkZmllbGQtPm5hbWU7
+CgkJbXkgJG5hbWUgPSAgJGZpZWxkLT5yZW5kZXJfbmFtZTsKCQlteSAkdCA9ICRmaWVsZC0+dHlw
+ZTsKCgkJbXkgJHN0cmluZzEgPSBFUHJpbnRzOjpVdGlsczo6dHJlZV90b191dGY4KCAkZXByaW50
+MS0+cmVuZGVyX3ZhbHVlKCAkbiApICk7CgkJbXkgJHN0cmluZzIgPSBFUHJpbnRzOjpVdGlsczo6
+dHJlZV90b191dGY4KCAkZXByaW50Mi0+cmVuZGVyX3ZhbHVlKCAkbiApICk7CgoJCSMgcmVwb3J0
+IGEgZGlmZmVyZW5jZSB1bmxlc3MgaXRzIGEgZmllbGQgd2hpY2ggd2lsbCBhbHdheXMgZGlmZmVy
+IG9yIHdlIGRvbnQgd2FudCB0byByZXBvcnQgb24KCQlpZiggJG4gIX4gL14oZXByaW50aWR8dHlw
+ZXxyZXZfbnVtYmVyfGRpcnxkYXRlc3RhbXB8bGFzdG1vZHxzdGF0dXNfY2hhbmdlZHxmaWxlaW5m
+bykkLyAmJiAKCQkgICAgJG4gIX4gL14oaXRlbV9pc3N1ZXN8ZWRpdF9sb2NrfGRvY3VtZW50cykv
+ICAmJiAKCQkgICAgJG4gIX4gLyhfZGF0ZXN0YW1wKSQvICAmJiAKCQkgICAgJHQgbmUgImNvbXBv
+dW5kIiAmJiAjIHN1YiBmaWVsZHMgc2hvdyB1cCBzZXBhcmF0ZWx5CgkJICAgICFkZWZpbmVkKCAk
+aXNzdWVzMl9leGNsdXNpb25zLT57ICRuIH0gKSAmJgoJCSAgICAkc3RyaW5nMSBuZSAkc3RyaW5n
+MiApCgkJewoJCQlteSAkdHIgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAidHIiICk7CgkJCW15
+ICR0ZGEgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAidGQiLCBzdHlsZSA9PiAidmVydGljYWwt
+YWxpZ246IHRvcDsgYm9yZGVyOiAxcHggc29saWQgd2hpdGU7IiApOwoJCQlteSAkdGRiID0gJHNl
+c3Npb24tPm1ha2VfZWxlbWVudCggInRkIiwgc3R5bGUgPT4gInZlcnRpY2FsLWFsaWduOiB0b3A7
+IGJvcmRlcjogMXB4IHNvbGlkIGRhcmtncmF5OyIgKTsKCQkJbXkgJHRkYyA9ICRzZXNzaW9uLT5t
+YWtlX2VsZW1lbnQoICJ0ZCIsIHN0eWxlID0+ICJ2ZXJ0aWNhbC1hbGlnbjogdG9wOyBib3JkZXI6
+IDFweCBzb2lpZCB3aGl0ZTsiICk7CgkJCW15ICR0ZGQgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50
+KCAidGQiLCBzdHlsZSA9PiAidmVydGljYWwtYWxpZ246IHRvcDsgYm9yZGVyOiAxcHggc29saWQg
+d2hpdGUiICk7CgoJCQlteSAkY2IgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiaW5wdXQiLCAi
+dHlwZSIgPT4gImNoZWNrYm94IiwgIm5hbWUiID0+ICIkbiIsIHZhbHVlID0+ICIxIiwgImNsYXNz
+IiA9PiAiZXBfaXNzdWVzMl9tZXJnZSIgKTsKCgkJCW15ICRuYW1lX3NwYW4gPSAkc2Vzc2lvbi0+
+bWFrZV9lbGVtZW50KCJzcGFuIiwgc3R5bGUgPT4gImZvbnQtc2l6ZTogODAlOyIpOwoJCQkkbmFt
+ZV9zcGFuLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfdGV4dCgiICgkbikiKSApOwoJCQkk
+dGRhLT5hcHBlbmRDaGlsZCggJG5hbWUgKTsKCQkJJHRkYS0+YXBwZW5kQ2hpbGQoICRuYW1lX3Nw
+YW4gKTsKCgkJCSR0ZGItPmFwcGVuZENoaWxkKCAkZXByaW50MS0+cmVuZGVyX3ZhbHVlKCAkbiAp
+ICk7CgkJCSR0ZGMtPmFwcGVuZENoaWxkKCAkY2IgICk7CgkJCSR0ZGQtPmFwcGVuZENoaWxkKCAk
+ZXByaW50Mi0+cmVuZGVyX3ZhbHVlKCAkbiApICk7CgoJCQkkdHItPmFwcGVuZENoaWxkKCAkdGRh
+ICk7CgkJCSR0ci0+YXBwZW5kQ2hpbGQoICR0ZGIgKTsKCQkJJHRyLT5hcHBlbmRDaGlsZCggJHRk
+YyApOwoJCQkkdHItPmFwcGVuZENoaWxkKCAkdGRkICk7CiAKCQkJJHRhYmxlLT5hcHBlbmRDaGls
+ZCggJHRyICk7CgkJfQoJfQoKICAgICAgICAkcGFnZS0+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5t
+YWtlX2phdmFzY3JpcHQoICJ2YXIgZXByaW50c19odHRwX3Jvb3Q9Jy8nOyIgKSApOwogICAgICAg
+ICRwYWdlLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfamF2YXNjcmlwdCggdW5kZWYsIHNy
+YyA9PiAkc2Vzc2lvbi0+Y3VycmVudF91cmwoIHBhdGggPT4gInN0YXRpYyIsICJqYXZhc2NyaXB0
+L2F1dG8uanMiICkgKSApOwoKCSRwYWdlLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfdGV4
+dCggIkNvbXBhcmUgdGhlIGRpZmZlcmVuY2VzIGJldHdlZW4gdGhlIHR3byByZWNvcmRzLCB1c2Ug
+dGhlIGNoZWNrIGJveGVzIHRvIG1hcmsgdGhvc2UgdG8gYmUgbWVyZ2VkIGZyb20gcmlnaHQgdG8g
+bGVmdCwgcHJlc3MgQXBwbHkgdG8gY29tbWl0IHRoZSBjaGFuZ2VzIGFuZCBjbG9zZSB0aGlzIHdp
+bmRvdy4iICkgKTsKCSRwYWdlLT5hcHBlbmRDaGlsZCggJHNlc3Npb24tPm1ha2VfZWxlbWVudCgg
+ImJyIiApICk7CgoJewoJCW15ICRzdWJtaXQgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiaW5w
+dXQiLCAidHlwZSIgPT4gImJ1dHRvbiIsICJuYW1lIiA9PiAibWVyZ2UiLCB2YWx1ZSA9PiAiQXBw
+bHkgY2hhbmdlcyBhbmQgY2xvc2Ugd2luZG93IiwgIm9uY2xpY2siID0+ICJpc3N1ZXMyX21lcmdl
+KCRlcHJpbnRpZDEsICRlcHJpbnRpZDIpOyIsICJzdHlsZSIgPT4gImZsb2F0OiByaWdodDsiICk7
+CgkJbXkgJGNhbmNlbCA9ICRzZXNzaW9uLT5tYWtlX2VsZW1lbnQoICJpbnB1dCIsICJ0eXBlIiA9
+PiAiYnV0dG9uIiwgIm5hbWUiID0+ICJjYW5jZWwiLCB2YWx1ZSA9PiAiQ2FuY2VsIGNoYW5nZXMg
+YW5kIGNsb3NlIHdpbmRvdyIsICJvbmNsaWNrIiA9PiAid2luZG93LmNsb3NlKCkiLCAic3R5bGUi
+ID0+ICJmbG9hdDogcmlnaHQ7IiApOwoJCW15ICRzd2FwID0gJHNlc3Npb24tPm1ha2VfZWxlbWVu
+dCggImlucHV0IiwgInR5cGUiID0+ICJidXR0b24iLCAibmFtZSIgPT4gInN3YXAiLCB2YWx1ZSA9
+PiAiUmV2ZXJzZSB2aWV3IiwgIm9uY2xpY2siID0+ICJ3aW5kb3cubG9jYXRpb24gPSAnL2NnaS91
+c2Vycy9ob21lP3NjcmVlbj1FUHJpbnQ6Oklzc3VlczJTdW1tYXJ5JmVwcmludGlkPSRlcHJpbnRp
+ZDImZXByaW50aWQyPSRlcHJpbnRpZDEmbWFpbm9ubHk9eWVzJyIsICJzdHlsZSIgPT4gImZsb2F0
+OiBsZWZ0OyIgKTsKCQkkcGFnZS0+YXBwZW5kQ2hpbGQoICRzd2FwICk7CgkJJHBhZ2UtPmFwcGVu
+ZENoaWxkKCAkc3VibWl0ICk7CgkJJHBhZ2UtPmFwcGVuZENoaWxkKCAkY2FuY2VsICk7Cgl9CgoJ
+JHBhZ2UtPmFwcGVuZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiYnIiICkgKTsKCSRw
+YWdlLT5hcHBlbmRDaGlsZCggJHRhYmxlICk7CgoJJHBhZ2UtPmFwcGVuZENoaWxkKCAkc2Vzc2lv
+bi0+bWFrZV9lbGVtZW50KCAiYnIiICkgKTsKCSRwYWdlLT5hcHBlbmRDaGlsZCggJHNlc3Npb24t
+Pm1ha2VfdGV4dCggIk9uY2UgY2hhbmdlcyBoYXZlIGJlZW4gbWFkZSwgdGhleSB3aWxsIGJlIHJl
+ZmxlY3RlZCBpbiB0aGUgcmVwb3J0cyBhZnRlciB0aGUgbmV4dCBhdWRpdCBoYXMgYmVlbiBydW4u
+IiApICk7CgkkcGFnZS0+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5tYWtlX2VsZW1lbnQoICJiciIg
+KSApOwoJJHBhZ2UtPmFwcGVuZENoaWxkKCAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiYnIiICkg
+KTsKCgl7CgkJbXkgJHN1Ym1pdCA9ICRzZXNzaW9uLT5tYWtlX2VsZW1lbnQoICJpbnB1dCIsICJ0
+eXBlIiA9PiAiYnV0dG9uIiwgIm5hbWUiID0+ICJtZXJnZSIsIHZhbHVlID0+ICJBcHBseSBjaGFu
+Z2VzIGFuZCBjbG9zZSB3aW5kb3ciLCAib25jbGljayIgPT4gImlzc3VlczJfbWVyZ2UoJGVwcmlu
+dGlkMSwgJGVwcmludGlkMik7IiwgInN0eWxlIiA9PiAiZmxvYXQ6IHJpZ2h0OyIgKTsKCQlteSAk
+Y2FuY2VsID0gJHNlc3Npb24tPm1ha2VfZWxlbWVudCggImlucHV0IiwgInR5cGUiID0+ICJidXR0
+b24iLCAibmFtZSIgPT4gImNhbmNlbCIsIHZhbHVlID0+ICJDYW5jZWwgY2hhbmdlcyBhbmQgY2xv
+c2Ugd2luZG93IiwgIm9uY2xpY2siID0+ICJ3aW5kb3cuY2xvc2UoKSIsICJzdHlsZSIgPT4gImZs
+b2F0OiByaWdodDsiICk7CgkJbXkgJHN3YXAgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAiaW5w
+dXQiLCAidHlwZSIgPT4gImJ1dHRvbiIsICJuYW1lIiA9PiAic3dhcCIsIHZhbHVlID0+ICJSZXZl
+cnNlIHZpZXciLCAib25jbGljayIgPT4gIndpbmRvdy5sb2NhdGlvbiA9ICcvY2dpL3VzZXJzL2hv
+bWU/c2NyZWVuPUVQcmludDo6SXNzdWVzMlN1bW1hcnkmZXByaW50aWQ9JGVwcmludGlkMiZlcHJp
+bnRpZDI9JGVwcmludGlkMSZtYWlub25seT15ZXMnIiwgInN0eWxlIiA9PiAiZmxvYXQ6IGxlZnQ7
+IiApOwoJCSRwYWdlLT5hcHBlbmRDaGlsZCggJHN3YXAgKTsKCQkkcGFnZS0+YXBwZW5kQ2hpbGQo
+ICRzdWJtaXQgKTsKCQkkcGFnZS0+YXBwZW5kQ2hpbGQoICRjYW5jZWwgKTsKCX0KCglyZXR1cm4g
+JHBhZ2U7Cn0JCgoxOwo=
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13285'>
-          <fileid>13285</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13846'>
+          <fileid>13846</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/Staff/IssueSearch2.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>6827122a668e859f25b89418c126cc1f</hash>
           <hash_type>MD5</hash_type>
           <filesize>2464</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/Staff/IssueSearch2.pm</url>
           <data encoding='base64'>PWhlYWQxIE5BTUUKCkVQcmludHM6OlBsdWdpbjo6U2NyZWVuOjpTdGFmZjo6SXNzdWVTZWFyY2gy
 Cgo9Y3V0CgoKcGFja2FnZSBFUHJpbnRzOjpQbHVnaW46OlNjcmVlbjo6U3RhZmY6Oklzc3VlU2Vh
 cmNoMjsKCkBJU0EgPSAoICdFUHJpbnRzOjpQbHVnaW46OlNjcmVlbjo6QWJzdHJhY3RTZWFyY2gn
@@ -844,16 +843,17 @@ bXkoICRzZWxmICkgPSBAXzsKCglyZXR1cm4gJHNlbGYtPntzZXNzaW9ufS0+bWFrZV9kb2NfZnJh
 Z21lbnQ7Cn0KCjE7Cg==
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13286'>
-          <fileid>13286</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13847'>
+          <fileid>13847</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>static/images/epm/issues2.png</filename>
           <mime_type>image/png</mime_type>
           <hash>a584c5a781a2d6b668e71dbaf99c8d10</hash>
           <hash_type>MD5</hash_type>
           <filesize>120321</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/static/images/epm/issues2.png</url>
           <data encoding='base64'>iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAYAAAB5fY51AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAADXUAAA11AFeZeUI
 AAAKKmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpu
@@ -2967,16 +2967,17 @@ A5kCmQJzQ4EMWHPzqXJDMwUyBTJg5T6QKZApMDcUyIA1N58qNzRTIFMgA1buA5kCmQJzQ4EMWHPz
 qXJDMwUyBTJg5T6QKZApMDcUyIA1N58qNzRTIFPg33eo09nY8k0AAAAAAElFTkSuQmCC
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13287'>
-          <fileid>13287</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13848'>
+          <fileid>13848</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>static/javascript/auto/issues2.js</filename>
           <mime_type>text/plain</mime_type>
-          <hash>4179fd9868b58d92c5f65e957e71b544</hash>
+          <hash>c9ab64496a3d01649b41a9e27217fd03</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2754</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>3623</filesize>
+          <mtime>2017-12-15 12:44:03</mtime>
+          <url>https://bazaar.eprints.org/546/1/static/javascript/auto/issues2.js</url>
           <data encoding='base64'>ZnVuY3Rpb24gaXNzdWVzMl9yZXRpcmUoIGlkMSApCnsKICB2YXIgUG9wdXAgPSB7CiAgICBvcGVu
 OiBmdW5jdGlvbihvcHRpb25zKQogICAgewogICAgICB0aGlzLm9wdGlvbnMgPSB7CiAgICAgICAg
 dXJsOiAnIycsCiAgICAgICAgd2lkdGg6IDgwMCwKICAgICAgICBoZWlnaHQ6IDgwMAogICAgICB9
@@ -2984,60 +2985,76 @@ CiAgICAgIE9iamVjdC5leHRlbmQodGhpcy5vcHRpb25zLCBvcHRpb25zIHx8IHt9KTsKICAgICAg
 d2luZG93Lm9wZW4odGhpcy5vcHRpb25zLnVybCwgJycsICd3aWR0aD0nK3RoaXMub3B0aW9ucy53
 aWR0aCsnLGhlaWdodD0nK3RoaXMub3B0aW9ucy5oZWlnaHQpOwogICAgfQogIH0KICBQb3B1cC5v
 cGVuKHt1cmw6Jy9jZ2kvdXNlcnMvaG9tZT9zY3JlZW49RVByaW50OjpWaWV3JmVwcmludGlkPScr
-aWQxfSk7CgogIHJldHVybiBmYWxzZTsKfQoKZnVuY3Rpb24gaXNzdWVzMl9jb21wYXJlKCBpZDEs
-IGlkMiApCnsKICBpZiggaWQxID09IG51bGwgKQogIHsKICAgIHZhciBwYXJ0cyA9IHdpbmRvdy5s
-b2NhdGlvbi5ocmVmLnJlcGxhY2UoL1s/Jl0rKFtePSZdKyk9KFteJiNdKikvZ2ksCiAgICBmdW5j
-dGlvbihtLGtleSx2YWx1ZSkKICAgIHsKICAgICAgaWYoa2V5ID09ICJlcHJpbnRpZCIpIHsgaWQx
-ID0gdmFsdWU7IH0KICAgIH0pOwogIH0KCiAgdmFyIHdpbiA9IHdpbmRvdy5vcGVuKCAnL2NnaS91
-c2Vycy9ob21lP3NjcmVlbj1FUHJpbnQ6Oklzc3VlczJTdW1tYXJ5JmVwcmludGlkPScraWQxKycm
-ZXByaW50aWQyPScraWQyKycmbWFpbm9ubHk9eWVzJywgJ0NvbXBhcmUnLCAnd2lkdGg9ODAwLGhl
-aWdodD00MDAnICk7CgogIC8qCiAgdmFyIFBvcHVwID0gewogICAgb3BlbjogZnVuY3Rpb24ob3B0
-aW9ucykKICAgIHsKICAgICAgdGhpcy5vcHRpb25zID0gewogICAgICAgIHVybDogJyMnLAogICAg
-ICAgIHdpZHRoOiA4MDAsCiAgICAgICAgaGVpZ2h0OiA0MDAsCiAgICAgICAgc2Nyb2xsYmFyczog
-J3llcycsCiAgICAgICAgcmVzaXphYmxlOiAneWVzJywKICAgICAgICBsb2NhdGlvbjogJ25vJywK
-ICAgICAgICBuYW1lOiAnQ29tcGFyZScsCiAgICAgIH0KICAgICAgT2JqZWN0LmV4dGVuZCh0aGlz
-Lm9wdGlvbnMsIG9wdGlvbnMgfHwge30pOwogICAgICB3aW5kb3cub3Blbih0aGlzLm9wdGlvbnMu
-dXJsLCAnJywgJ3dpZHRoPScrdGhpcy5vcHRpb25zLndpZHRoKycsaGVpZ2h0PScrdGhpcy5vcHRp
-b25zLmhlaWdodCk7CiAgICB9CiAgfQogIFBvcHVwLm9wZW4oe3VybDonL2NnaS91c2Vycy9ob21l
-P3NjcmVlbj1FUHJpbnQ6Oklzc3VlczJTdW1tYXJ5JmVwcmludGlkPScraWQxKycmZXByaW50aWQy
-PScraWQyKycmbWFpbm9ubHk9eWVzJ30pOwogICovCgogIHJldHVybiBmYWxzZTsKfQoKZnVuY3Rp
-b24gaXNzdWVzMl9hY2soIGlkMSwgY29kZSApCnsKICBjb25zb2xlLmxvZyggaWQxICsgIiwgIiAr
-IGNvZGUgKTsKCiAgaWYgKCBjb25maXJtKCAiQWNrbm93bGVkZ2UgYW5kIGRpc21pc3MgdGhpcyBw
-cm9ibGVtPyIgKSA9PSB0cnVlKQogIHsKICAgIG5ldyBBamF4LlJlcXVlc3QoICcvY2dpL2lzc3Vl
-czJhY2s/ZXByaW50aWQ9JytpZDErJyZjb2RlPScrY29kZSwgeyBtZXRob2Q6J2dldCcgfSApOwog
-ICAgcmV0dXJuIHRydWU7CiAgfQogIGVsc2UKICB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQp9Cgpm
-dW5jdGlvbiBpc3N1ZXMyX21lcmdlKGlkMSwgaWQyKQp7CiAgY29uc29sZS5sb2coICJpc3N1ZXMy
-X21lcmdlIiApOwoKICB2YXIgZmllbGRzID0gIiI7CiAgJCQoJy5lcF9pc3N1ZXMyX21lcmdlJyku
-ZWFjaChmdW5jdGlvbihlKXsKICAgIGlmKCQoZSkuY2hlY2tlZD09dHJ1ZSkgewogICAgICBmaWVs
-ZHMgPSBmaWVsZHMgKyAkKGUpLm5hbWUgKyAiLCI7CiAgICB9CiAgfSk7CgogIGNvbnNvbGUubG9n
-KGlkMSArICIgIiArIGlkMiArICIgIiArIGZpZWxkcyk7CgogIG5ldyBBamF4LlJlcXVlc3QoICcv
-Y2dpL2lzc3VlczJtZXJnZT9lcHJpbnRpZDE9JytpZDErJyZlcHJpbnRpZDI9JytpZDIrIiZmaWVs
-ZHM9IitmaWVsZHMsCiAgeyBtZXRob2Q6J2dldCcsCiAgICBvbkNvbXBsZXRlOiBmdW5jdGlvbigp
-IHsgd2luZG93LmNsb3NlKCk7IH0KICB9KTsKCiAgcmV0dXJuOwp9CgovLyBydW4gb24gcGFnZSBs
-b2FkIC0gaGlkZSB0aGUgaXNzdWVzIHdlIGFyZSBub3QgaW50ZXJlc3RlZCBpbgpkb2N1bWVudC5v
-YnNlcnZlKCdkb206bG9hZGVkJywgZnVuY3Rpb24oKQp7CiAgdmFyIHR5cGVzID0gW107CiAgdmFy
-IHBhcnRzID0gd2luZG93LmxvY2F0aW9uLmhyZWYucmVwbGFjZSgvWz8mXSsoW149Jl0rKT0oW14m
-XSopL2dpLCAgICAKICAgIGZ1bmN0aW9uKG0sa2V5LHZhbHVlKQogICAgewogICAgICBpZihrZXkg
-PT0gIml0ZW1faXNzdWVzMl90eXBlIikKICAgICAgewogICAgICAgIHR5cGVzLnB1c2goICJsaS5l
-cF9pc3N1ZV90eXBlXyIgKyB2YWx1ZSApOwogICAgICB9CiAgfSk7CgogIGlmKCB0eXBlcy5sZW5n
-dGggPiAwICkKICB7CiAgICAvLyBoaWRlIGFsbAogICAgJCQoICJsaS5lcF9pc3N1ZV90eXBlIiAp
-LmVhY2goCiAgICAgIGZ1bmN0aW9uIChlKSB7IGUuc2V0U3R5bGUoe2Rpc3BsYXk6J25vbmUnfSk7
-IH0gCiAgICApOwogICAgLy8gc2hvdyBzZWxlY3RlZAogICAgZm9yIChpID0gMDsgaSA8IHR5cGVz
-Lmxlbmd0aDsgaSsrKQogICAgeyAKICAgICAgJCQoIHR5cGVzW2ldICkuZWFjaCgKICAgICAgICBm
-dW5jdGlvbiAoZSkgeyBlLnNldFN0eWxlKHtkaXNwbGF5OidsaXN0LWl0ZW0nfSk7IH0gCiAgICAg
-ICk7CiAgICB9CiAgfQp9KTsK
+aWQxfSk7CgogIHJldHVybiBmYWxzZTsKfQoKZnVuY3Rpb24gZXh0cmFjdEF0dHJpYnV0ZUZyb21B
+bmNlc3RyeShlbCwgYXR0cikgewoKICBmb3IgKHZhciB0aGlzX2VsID0gZWw7IHRoaXNfZWw7IHRo
+aXNfZWwgPSB0aGlzX2VsLnBhcmVudEVsZW1lbnQpCiAgewogICAgaWYgKHRoaXNfZWwgJiYgdGhp
+c19lbC5yZWFkQXR0cmlidXRlKQogICAgewogICAgICB2YXIgdmFsdWUgPSB0aGlzX2VsLnJlYWRB
+dHRyaWJ1dGUoYXR0cik7CgogICAgICBpZiAodmFsdWUpCiAgICAgIHsKICAgICAgICByZXR1cm4g
+dmFsdWU7CiAgICAgIH0KICAgIH0KICB9Cn0KCmZ1bmN0aW9uIGV4dHJhY3RFUHJpbnRJRGZyb21V
+UkwoKSB7CgogIHZhciBpZDsKICB2YXIgcGFydHMgPSB3aW5kb3cubG9jYXRpb24uaHJlZi5yZXBs
+YWNlKC9bPyZdKyhbXj0mXSspPShbXiYjXSopL2dpLAoKICAgIGZ1bmN0aW9uIChtLCBrZXksIHZh
+bHVlKQogICAgewogICAgICBpZiAoa2V5ID09ICJlcHJpbnRpZCIpCiAgICAgIHsKICAgICAgICBp
+ZCA9IHZhbHVlOwogICAgICB9CiAgICB9KTsKCiAgcmV0dXJuIGlkOwp9CgpmdW5jdGlvbiBpc3N1
+ZXMyX2NvbXBhcmUoIGVsLCBpZDIgKQp7CiAgdmFyIGlkMSA9IGV4dHJhY3RBdHRyaWJ1dGVGcm9t
+QW5jZXN0cnkoZWwsICdlcHJpbnRpZCcpOwoKICAvLyBJZiB0aGUgZXByaW50aWQgd2Fzbid0IGZv
+dW5kIGluIHRoZSBlbGVtZW50IGFuY2VzdHJ5LCBleHRyYWN0IGl0IGZyb20gdGhlCiAgLy8gVVJM
+IGluc3RlYWQuCgogIGlmIChpZDEgPT0gbnVsbCkKICB7CiAgICBpZDEgPSBleHRyYWN0RVByaW50
+SURmcm9tVVJMKCk7CiAgfQogIAogIHZhciB3aW4gPSB3aW5kb3cub3BlbiggJy9jZ2kvdXNlcnMv
+aG9tZT9zY3JlZW49RVByaW50OjpJc3N1ZXMyU3VtbWFyeSZlcHJpbnRpZD0nK2lkMSsnJmVwcmlu
+dGlkMj0nK2lkMisnJm1haW5vbmx5PXllcycsICdDb21wYXJlJywgJ3dpZHRoPTgwMCxoZWlnaHQ9
+NDAwJyApOwoKICAvKgogIHZhciBQb3B1cCA9IHsKICAgIG9wZW46IGZ1bmN0aW9uKG9wdGlvbnMp
+CiAgICB7CiAgICAgIHRoaXMub3B0aW9ucyA9IHsKICAgICAgICB1cmw6ICcjJywKICAgICAgICB3
+aWR0aDogODAwLAogICAgICAgIGhlaWdodDogNDAwLAogICAgICAgIHNjcm9sbGJhcnM6ICd5ZXMn
+LAogICAgICAgIHJlc2l6YWJsZTogJ3llcycsCiAgICAgICAgbG9jYXRpb246ICdubycsCiAgICAg
+ICAgbmFtZTogJ0NvbXBhcmUnLAogICAgICB9CiAgICAgIE9iamVjdC5leHRlbmQodGhpcy5vcHRp
+b25zLCBvcHRpb25zIHx8IHt9KTsKICAgICAgd2luZG93Lm9wZW4odGhpcy5vcHRpb25zLnVybCwg
+JycsICd3aWR0aD0nK3RoaXMub3B0aW9ucy53aWR0aCsnLGhlaWdodD0nK3RoaXMub3B0aW9ucy5o
+ZWlnaHQpOwogICAgfQogIH0KICBQb3B1cC5vcGVuKHt1cmw6Jy9jZ2kvdXNlcnMvaG9tZT9zY3Jl
+ZW49RVByaW50OjpJc3N1ZXMyU3VtbWFyeSZlcHJpbnRpZD0nK2lkMSsnJmVwcmludGlkMj0nK2lk
+MisnJm1haW5vbmx5PXllcyd9KTsKICAqLwoKICByZXR1cm4gZmFsc2U7Cn0KCmZ1bmN0aW9uIGlz
+c3VlczJfYWNrKCBlbCwgY29kZSApCnsKICB2YXIgaWQxID0gZXh0cmFjdEF0dHJpYnV0ZUZyb21B
+bmNlc3RyeShlbCwgJ2VwcmludGlkJyk7CiAgdmFyIGNvZGUgPSBleHRyYWN0QXR0cmlidXRlRnJv
+bUFuY2VzdHJ5KGVsLCAnZXBfaXNzdWVfbGlzdF9pZCcpOwoKICAvLyBJZiB0aGUgZXByaW50aWQg
+d2Fzbid0IGZvdW5kIGluIHRoZSBlbGVtZW50IGFuY2VzdHJ5LCBleHRyYWN0IGl0IGZyb20gdGhl
+CiAgLy8gVVJMIGluc3RlYWQuCgogIGlmIChpZDEgPT0gbnVsbCkKICB7CiAgICBpZDEgPSBleHRy
+YWN0RVByaW50SURmcm9tVVJMKCk7CiAgfQoKICBjb25zb2xlLmxvZyggImVsIiwgZWwsICJpZDEi
+LCBpZDEsICJjb2RlIiwgY29kZSApOwoKICBpZiAoIGNvbmZpcm0oICJBY2tub3dsZWRnZSBhbmQg
+ZGlzbWlzcyB0aGlzIHByb2JsZW0/IiApID09IHRydWUpCiAgewogICAgbmV3IEFqYXguUmVxdWVz
+dCggJy9jZ2kvaXNzdWVzMmFjaz9lcHJpbnRpZD0nK2lkMSsnJmNvZGU9Jytjb2RlLCB7IG1ldGhv
+ZDonZ2V0JyB9ICk7CiAgICByZXR1cm4gdHJ1ZTsKICB9CiAgZWxzZQogIHsKICAgIHJldHVybiBm
+YWxzZTsKICB9Cn0KCmZ1bmN0aW9uIGlzc3VlczJfbWVyZ2UoaWQxLCBpZDIpCnsKICBjb25zb2xl
+LmxvZyggImlzc3VlczJfbWVyZ2UiICk7CgogIHZhciBmaWVsZHMgPSAiIjsKICAkJCgnLmVwX2lz
+c3VlczJfbWVyZ2UnKS5lYWNoKGZ1bmN0aW9uKGUpewogICAgaWYoJChlKS5jaGVja2VkPT10cnVl
+KSB7CiAgICAgIGZpZWxkcyA9IGZpZWxkcyArICQoZSkubmFtZSArICIsIjsKICAgIH0KICB9KTsK
+CiAgY29uc29sZS5sb2coaWQxICsgIiAiICsgaWQyICsgIiAiICsgZmllbGRzKTsKCiAgbmV3IEFq
+YXguUmVxdWVzdCggJy9jZ2kvaXNzdWVzMm1lcmdlP2VwcmludGlkMT0nK2lkMSsnJmVwcmludGlk
+Mj0nK2lkMisiJmZpZWxkcz0iK2ZpZWxkcywKICB7IG1ldGhvZDonZ2V0JywKICAgIG9uQ29tcGxl
+dGU6IGZ1bmN0aW9uKCkgeyB3aW5kb3cuY2xvc2UoKTsgfQogIH0pOwoKICByZXR1cm47Cn0KCi8v
+IHJ1biBvbiBwYWdlIGxvYWQgLSBoaWRlIHRoZSBpc3N1ZXMgd2UgYXJlIG5vdCBpbnRlcmVzdGVk
+IGluCmRvY3VtZW50Lm9ic2VydmUoJ2RvbTpsb2FkZWQnLCBmdW5jdGlvbigpCnsKICB2YXIgdHlw
+ZXMgPSBbXTsKICB2YXIgcGFydHMgPSB3aW5kb3cubG9jYXRpb24uaHJlZi5yZXBsYWNlKC9bPyZd
+KyhbXj0mXSspPShbXiZdKikvZ2ksICAgIAogICAgZnVuY3Rpb24obSxrZXksdmFsdWUpCiAgICB7
+CiAgICAgIGlmKGtleSA9PSAiaXRlbV9pc3N1ZXMyX3R5cGUiKQogICAgICB7CiAgICAgICAgdHlw
+ZXMucHVzaCggImxpLmVwX2lzc3VlX3R5cGVfIiArIHZhbHVlICk7CiAgICAgIH0KICB9KTsKCiAg
+aWYoIHR5cGVzLmxlbmd0aCA+IDAgKQogIHsKICAgIC8vIGhpZGUgYWxsCiAgICAkJCggImxpLmVw
+X2lzc3VlX3R5cGUiICkuZWFjaCgKICAgICAgZnVuY3Rpb24gKGUpIHsgZS5zZXRTdHlsZSh7ZGlz
+cGxheTonbm9uZSd9KTsgfSAKICAgICk7CiAgICAvLyBzaG93IHNlbGVjdGVkCiAgICBmb3IgKGkg
+PSAwOyBpIDwgdHlwZXMubGVuZ3RoOyBpKyspCiAgICB7IAogICAgICAkJCggdHlwZXNbaV0gKS5l
+YWNoKAogICAgICAgIGZ1bmN0aW9uIChlKSB7IGUuc2V0U3R5bGUoe2Rpc3BsYXk6J2xpc3QtaXRl
+bSd9KTsgfSAKICAgICAgKTsKICAgIH0KICB9Cn0pOwo=
 </data>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13288'>
-          <fileid>13288</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13849'>
+          <fileid>13849</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>static/style/auto/zzz_issues2.css</filename>
           <mime_type>text/plain</mime_type>
           <hash>2b8cdb02cbb7e97b7968d05ac944affa</hash>
           <hash_type>MD5</hash_type>
           <filesize>405</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:03</mtime>
+          <url>https://bazaar.eprints.org/546/1/static/style/auto/zzz_issues2.css</url>
           <data encoding='base64'>aW5wdXRbbmFtZT0idXNlcmlkLnVzZXJuYW1lIl0KewogIHdpZHRoOiAxMDBweDsKfQpkaXZbaWQ9
 InVzZXJpZC51c2VybmFtZV9oZWxwX3Nob3ciXQp7CiAgZGlzcGxheTogbm9uZTsKfQouZXBfaXNz
 dWVfbGlzdCBsaQp7CiAgbWFyZ2luLWJvdHRvbTogMTVweDsKfQouZXBfaXNzdWVfbGlzdCBsaSBo
@@ -3049,7 +3066,7 @@ cHg7Cn0K
 </data>
         </file>
       </files>
-      <eprintid>529</eprintid>
+      <eprintid>546</eprintid>
       <pos>1</pos>
       <placement>1</placement>
       <mime_type>text/plain</mime_type>
@@ -3059,20 +3076,21 @@ cHg7Cn0K
       <main>static/style/auto/zzz_issues2.css</main>
       <content>install</content>
     </document>
-    <document id='http://git.dev.ac.uk/id/document/2896'>
-      <docid>2896</docid>
+    <document id='http://bazaar.eprints.org/id/document/2962'>
+      <docid>2962</docid>
       <rev_number>1</rev_number>
       <files>
-        <file id='http://git.dev.ac.uk/id/file/13289'>
-          <fileid>13289</fileid>
+        <file id='http://bazaar.eprints.org/id/file/13850'>
+          <fileid>13850</fileid>
           <datasetid>document</datasetid>
-          <objectid>2896</objectid>
+          <objectid>2962</objectid>
           <filename>static/images/epm/issues2.png</filename>
           <mime_type>image/png</mime_type>
           <hash>a584c5a781a2d6b668e71dbaf99c8d10</hash>
           <hash_type>MD5</hash_type>
           <filesize>120321</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:03</mtime>
+          <url>https://bazaar.eprints.org/546/2/static/images/epm/issues2.png</url>
           <data encoding='base64'>iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAYAAAB5fY51AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAADXUAAA11AFeZeUI
 AAAKKmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpu
@@ -5187,7 +5205,7 @@ qXJDMwUyBTJg5T6QKZApMDcUyIA1N58qNzRTIFPg33eo09nY8k0AAAAAAElFTkSuQmCC
 </data>
         </file>
       </files>
-      <eprintid>529</eprintid>
+      <eprintid>546</eprintid>
       <pos>2</pos>
       <placement>2</placement>
       <mime_type>image/png</mime_type>
@@ -5198,7 +5216,7 @@ qXJDMwUyBTJg5T6QKZApMDcUyIA1N58qNzRTIFPg33eo09nY8k0AAAAAAElFTkSuQmCC
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <controller>EPMC::Issues2</controller>
   <creators>
     <item>
@@ -5208,8 +5226,15 @@ qXJDMwUyBTJg5T6QKZApMDcUyIA1N58qNzRTIFPg33eo09nY8k0AAAAAAElFTkSuQmCC
       </name>
       <id>jb4@ecs.soton.ac.uk</id>
     </item>
+    <item>
+      <name>
+        <family>Don</family>
+        <given>Cruickshank</given>
+      </name>
+      <id>dgc@soton.ac.uk</id>
+    </item>
   </creators>
-  <datestamp>2017-10-13 14:19:05</datestamp>
+  <datestamp>2017-12-15 12:44:02</datestamp>
   <title>Duplicate Checker (Issues2)</title>
   <description>Helps repository administrators find records with duplicate metadata.
 An alternative to the existing Issues tool, with a simplified interface.
@@ -5219,4 +5244,22 @@ We are planning on further updates to this plugin.
 This work has been funded by Jisc and carried out by EPrints Services.</description>
   <home_page>https://wiki.eprints.org/w/Issues2</home_page>
   <icon>images/epm/issues2.png</icon>
+  <verb>
+    <item>eps</item>
+    <item>pub</item>
+    <item>oneclick-install</item>
+    <item>by-eps</item>
+  </verb>
+  <verb_rendered>
+    <item>&lt;span class=&apos;bazaar_verb&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/eps.png&apos; alt=&apos;EPrints Services Recommended&apos;/&gt;&lt;/span&gt;</item>
+    <item>&lt;span class=&apos;bazaar_verb&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/pub.png&apos; alt=&apos;For Publications&apos;/&gt;&lt;/span&gt;</item>
+    <item>&lt;span class=&apos;bazaar_verb&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/oneclick-install.png&apos; alt=&apos;One-click Install&apos;/&gt;&lt;/span&gt;</item>
+    <item>&lt;span class=&apos;bazaar_verb&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/by-eps.png&apos; alt=&apos;By EPrints Services&apos;/&gt;&lt;/span&gt;</item>
+  </verb_rendered>
+  <verb_rendered_long>
+    <item>&lt;span class=&apos;bazaar_verb_long&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/eps.png&apos; alt=&apos;EPrints Services Recommended&apos;/&gt;EPrints Services Recommended&lt;/span&gt;</item>
+    <item>&lt;span class=&apos;bazaar_verb_long&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/pub.png&apos; alt=&apos;For Publications&apos;/&gt;For Publications&lt;/span&gt;</item>
+    <item>&lt;span class=&apos;bazaar_verb_long&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/oneclick-install.png&apos; alt=&apos;One-click Install&apos;/&gt;One-click Install&lt;/span&gt;</item>
+    <item>&lt;span class=&apos;bazaar_verb_long&apos;&gt;&lt;img src=&apos;//bazaar.eprints.org/images/verbs/by-eps.png&apos; alt=&apos;By EPrints Services&apos;/&gt;By EPrints Services&lt;/span&gt;</item>
+  </verb_rendered_long>
 </epm>

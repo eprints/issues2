@@ -81,7 +81,7 @@ sub process_at_end
 
 			if ( $eprint->get_value("eprint_status") ne "deletion" )
 			{
-				my $compare = $session->make_element( "a", href=>"#", "onclick" => "return issues2_compare( \$(this).up(3).readAttribute('eprintid'), $id );", "class" => "ep_issues2_compare" );
+				my $compare = $session->make_element( "a", href=>"#", "onclick" => "return issues2_compare( this, $id );", "class" => "ep_issues2_compare" );
 				$compare->appendChild( $session->make_text( "Compare & Merge" ) );
 				$desc->appendChild( $session->make_text( " [ " ) );
 				$desc->appendChild( $compare );
@@ -89,7 +89,7 @@ sub process_at_end
 			}
 
 			my $ack = $session->make_element( "a", href=>"#",
-				"onclick" => "if( issues2_ack( \$(this).up(3).readAttribute('eprintid'), \$(this).up(1).readAttribute('ep_issue_list_id')) ) { \$(this).up(1).setStyle( { 'font-style': 'italic', 'color': '#bbbbbb' } ); }",
+				"onclick" => "if( issues2_ack( this ) ) { \$(this).up(1).setStyle( { 'font-style': 'italic', 'color': '#bbbbbb' } ); }",
 				"class" => "ep_issues2_ack"
 			);
 			$ack->appendChild( $session->make_text( "Acknowledge" ) );

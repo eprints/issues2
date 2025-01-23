@@ -1,246 +1,254 @@
-<?xml version='1.0' encoding='utf-8'?>
-<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://git.dev.ac.uk/id/epm/issues2'>
+<?xml version="1.0" encoding="utf-8"?>
+<epm xmlns="http://eprints.org/ep2/data/2.0" id="http://bazaar.eprints.org/id/epm/issues2">
   <epmid>issues2</epmid>
-  <eprintid>529</eprintid>
-  <uri>http://bazaar.eprints.org/id/epm/issues2</uri>
+  <eprintid>546</eprintid>
   <documents>
-    <document id='http://git.dev.ac.uk/id/document/2895'>
-      <docid>2895</docid>
+    <document id="http://bazaar.eprints.org/id/document/2961">
+      <docid>2961</docid>
       <rev_number>1</rev_number>
       <files>
-        <file id='http://git.dev.ac.uk/id/file/13268'>
-          <fileid>13268</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13830">
+          <fileid>13830</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>bin/issues_audit2</filename>
           <mime_type>text/x-perl</mime_type>
           <hash>87deafd3e54a0c883d6ca1fe5af15ed9</hash>
           <hash_type>MD5</hash_type>
           <filesize>7509</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/bin/issues_audit2</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13269'>
-          <fileid>13269</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13831">
+          <fileid>13831</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>cfg.d/issues_search2.pl</filename>
           <mime_type>text/plain</mime_type>
           <hash>9c04c101552254dee23fd11b0abc60d7</hash>
           <hash_type>MD5</hash_type>
           <filesize>1048</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/cfg.d/issues_search2.pl</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13270'>
-          <fileid>13270</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13832">
+          <fileid>13832</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>cfg.d/z_issues2.pl</filename>
           <mime_type>text/plain</mime_type>
-          <hash>31dee5faec23a2c04f1ab68133b5329a</hash>
+          <hash>9a6b15aca22186094b06ad592abd105e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4632</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>4754</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/cfg.d/z_issues2.pl</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13271'>
-          <fileid>13271</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13833">
+          <fileid>13833</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>citations/eprint/brief_info.xml</filename>
           <mime_type>application/xml</mime_type>
           <hash>df14d03d6383349ca5856dac8d1d6f2a</hash>
           <hash_type>MD5</hash_type>
           <filesize>268</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/citations/eprint/brief_info.xml</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13272'>
-          <fileid>13272</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13834">
+          <fileid>13834</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>citations/eprint/issue2.xml</filename>
           <mime_type>application/xml</mime_type>
           <hash>81ee034e23ba6890867b35aab1611ce2</hash>
           <hash_type>MD5</hash_type>
           <filesize>546</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/citations/eprint/issue2.xml</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13273'>
-          <fileid>13273</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13835">
+          <fileid>13835</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>epm/issues2/cfg/namedsets/issues2</filename>
           <mime_type>text/plain</mime_type>
-          <hash>7ecc3e641a4e745668b163a0dce666da</hash>
+          <hash>e2f914382e832ce8d131b16569fc5ecd</hash>
           <hash_type>MD5</hash_type>
-          <filesize>92</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>93</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/epm/issues2/cfg/namedsets/issues2</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13274'>
-          <fileid>13274</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13836">
+          <fileid>13836</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>epm/issues2/cgi/issues2ack</filename>
           <mime_type>text/plain</mime_type>
           <hash>94fbcc99b235b4e5a8fe7141565d7658</hash>
           <hash_type>MD5</hash_type>
           <filesize>845</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/epm/issues2/cgi/issues2ack</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13275'>
-          <fileid>13275</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13837">
+          <fileid>13837</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>epm/issues2/cgi/issues2merge</filename>
           <mime_type>text/plain</mime_type>
           <hash>0fa95077716d4e85cdd62f738115e682</hash>
           <hash_type>MD5</hash_type>
           <filesize>985</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/epm/issues2/cgi/issues2merge</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13276'>
-          <fileid>13276</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13838">
+          <fileid>13838</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>lang/en/phrases/issues2.xml</filename>
           <mime_type>application/xml</mime_type>
-          <hash>c037268a7ec6ce0169b88ae1f72ac889</hash>
+          <hash>853835c3c2f46809f6e0027191d15e0a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2464</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>2548</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/lang/en/phrases/issues2.xml</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13277'>
-          <fileid>13277</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13839">
+          <fileid>13839</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2.pm</filename>
           <mime_type>text/plain</mime_type>
-          <hash>c15c3236e3e3e2156d31f6ba94c63c0b</hash>
+          <hash>1e653ce8607f6de77d9f3197c4a58adb</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4122</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>4001</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13278'>
-          <fileid>13278</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13840">
+          <fileid>13840</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2/DuplicateDOI.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>97a0fd0d126dc2c2b09c93a55e3ec04a</hash>
           <hash_type>MD5</hash_type>
           <filesize>505</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2/DuplicateDOI.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13279'>
-          <fileid>13279</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13841">
+          <fileid>13841</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2/DuplicateISBN.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>d8e56421562df21807013ceef79aac70</hash>
           <hash_type>MD5</hash_type>
           <filesize>503</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2/DuplicateISBN.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13280'>
-          <fileid>13280</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13842">
+          <fileid>13842</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
-          <filename>plugins/EPrints/Plugin/Issues2/DuplicateISSN.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>faf60b87b87a842081a2983e81e060be</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>503</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
-        </file>
-        <file id='http://git.dev.ac.uk/id/file/13281'>
-          <fileid>13281</fileid>
-          <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Issues2/DuplicateTitle.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>7c95d856f329c84cfb3d4d0fbf428314</hash>
           <hash_type>MD5</hash_type>
           <filesize>702</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Issues2/DuplicateTitle.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13282'>
-          <fileid>13282</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13843">
+          <fileid>13843</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/EPMC/Issues2.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>b9227c7f519d4bf131f18cdc06b10233</hash>
           <hash_type>MD5</hash_type>
           <filesize>705</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/EPMC/Issues2.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13283'>
-          <fileid>13283</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13844">
+          <fileid>13844</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>06c09791d0b38cf54b7c1527d30585ab</hash>
           <hash_type>MD5</hash_type>
           <filesize>779</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/EPrint/Issues2.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13284'>
-          <fileid>13284</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13845">
+          <fileid>13845</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2Summary.pm</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9062f6bba29f869c9cb6d898f824a1c5</hash>
+          <hash>bd48e084024667128ce72d030be1d3c1</hash>
           <hash_type>MD5</hash_type>
-          <filesize>6207</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>6341</filesize>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/EPrint/Issues2Summary.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13285'>
-          <fileid>13285</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13846">
+          <fileid>13846</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>plugins/EPrints/Plugin/Screen/Staff/IssueSearch2.pm</filename>
           <mime_type>text/plain</mime_type>
           <hash>6827122a668e859f25b89418c126cc1f</hash>
           <hash_type>MD5</hash_type>
           <filesize>2464</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/plugins/EPrints/Plugin/Screen/Staff/IssueSearch2.pm</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13286'>
-          <fileid>13286</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13847">
+          <fileid>13847</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>static/images/epm/issues2.png</filename>
           <mime_type>image/png</mime_type>
           <hash>a584c5a781a2d6b668e71dbaf99c8d10</hash>
           <hash_type>MD5</hash_type>
           <filesize>120321</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:02</mtime>
+          <url>https://bazaar.eprints.org/546/1/static/images/epm/issues2.png</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13287'>
-          <fileid>13287</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13848">
+          <fileid>13848</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>static/javascript/auto/issues2.js</filename>
           <mime_type>text/plain</mime_type>
-          <hash>4179fd9868b58d92c5f65e957e71b544</hash>
+          <hash>c9ab64496a3d01649b41a9e27217fd03</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2754</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <filesize>3623</filesize>
+          <mtime>2017-12-15 12:44:03</mtime>
+          <url>https://bazaar.eprints.org/546/1/static/javascript/auto/issues2.js</url>
         </file>
-        <file id='http://git.dev.ac.uk/id/file/13288'>
-          <fileid>13288</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13849">
+          <fileid>13849</fileid>
           <datasetid>document</datasetid>
-          <objectid>2895</objectid>
+          <objectid>2961</objectid>
           <filename>static/style/auto/zzz_issues2.css</filename>
           <mime_type>text/plain</mime_type>
           <hash>2b8cdb02cbb7e97b7968d05ac944affa</hash>
           <hash_type>MD5</hash_type>
           <filesize>405</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:03</mtime>
+          <url>https://bazaar.eprints.org/546/1/static/style/auto/zzz_issues2.css</url>
         </file>
       </files>
-      <eprintid>529</eprintid>
+      <eprintid>546</eprintid>
       <pos>1</pos>
       <placement>1</placement>
       <mime_type>text/plain</mime_type>
@@ -250,23 +258,24 @@
       <main>static/style/auto/zzz_issues2.css</main>
       <content>install</content>
     </document>
-    <document id='http://git.dev.ac.uk/id/document/2896'>
-      <docid>2896</docid>
+    <document id="http://bazaar.eprints.org/id/document/2962">
+      <docid>2962</docid>
       <rev_number>1</rev_number>
       <files>
-        <file id='http://git.dev.ac.uk/id/file/13289'>
-          <fileid>13289</fileid>
+        <file id="http://bazaar.eprints.org/id/file/13850">
+          <fileid>13850</fileid>
           <datasetid>document</datasetid>
-          <objectid>2896</objectid>
+          <objectid>2962</objectid>
           <filename>static/images/epm/issues2.png</filename>
           <mime_type>image/png</mime_type>
           <hash>a584c5a781a2d6b668e71dbaf99c8d10</hash>
           <hash_type>MD5</hash_type>
           <filesize>120321</filesize>
-          <mtime>2017-10-13 14:19:05</mtime>
+          <mtime>2017-12-15 12:44:03</mtime>
+          <url>https://bazaar.eprints.org/546/2/static/images/epm/issues2.png</url>
         </file>
       </files>
-      <eprintid>529</eprintid>
+      <eprintid>546</eprintid>
       <pos>2</pos>
       <placement>2</placement>
       <mime_type>image/png</mime_type>
@@ -277,7 +286,7 @@
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <controller>EPMC::Issues2</controller>
   <creators>
     <item>
@@ -287,15 +296,38 @@
       </name>
       <id>jb4@ecs.soton.ac.uk</id>
     </item>
+    <item>
+      <name>
+        <family>Don</family>
+        <given>Cruickshank</given>
+      </name>
+      <id>dgc@soton.ac.uk</id>
+    </item>
   </creators>
-  <datestamp>2017-10-13 14:19:05</datestamp>
+  <datestamp>2017-12-15 12:44:02</datestamp>
   <title>Duplicate Checker (Issues2)</title>
   <description>Helps repository administrators find records with duplicate metadata.
 An alternative to the existing Issues tool, with a simplified interface.
-
 We are planning on further updates to this plugin.
-
 This work has been funded by Jisc and carried out by EPrints Services.</description>
   <home_page>https://wiki.eprints.org/w/Issues2</home_page>
   <icon>images/epm/issues2.png</icon>
+  <verb>
+    <item>eps</item>
+    <item>pub</item>
+    <item>oneclick-install</item>
+    <item>by-eps</item>
+  </verb>
+  <verb_rendered>
+    <item>&lt;span class='bazaar_verb'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/eps.png' alt='EPrints Services Recommended'/&gt;&lt;/span&gt;</item>
+    <item>&lt;span class='bazaar_verb'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/pub.png' alt='For Publications'/&gt;&lt;/span&gt;</item>
+    <item>&lt;span class='bazaar_verb'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/oneclick-install.png' alt='One-click Install'/&gt;&lt;/span&gt;</item>
+    <item>&lt;span class='bazaar_verb'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/by-eps.png' alt='By EPrints Services'/&gt;&lt;/span&gt;</item>
+  </verb_rendered>
+  <verb_rendered_long>
+    <item>&lt;span class='bazaar_verb_long'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/eps.png' alt='EPrints Services Recommended'/&gt;EPrints Services Recommended&lt;/span&gt;</item>
+    <item>&lt;span class='bazaar_verb_long'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/pub.png' alt='For Publications'/&gt;For Publications&lt;/span&gt;</item>
+    <item>&lt;span class='bazaar_verb_long'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/oneclick-install.png' alt='One-click Install'/&gt;One-click Install&lt;/span&gt;</item>
+    <item>&lt;span class='bazaar_verb_long'&gt;&lt;img src='//bazaar.eprints.org/images/verbs/by-eps.png' alt='By EPrints Services'/&gt;By EPrints Services&lt;/span&gt;</item>
+  </verb_rendered_long>
 </epm>

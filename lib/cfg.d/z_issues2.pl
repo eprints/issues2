@@ -105,3 +105,9 @@ $c->{render_issues2} = sub
 $c->{plugins}->{"Screen::Staff::IssueSearch2"}->{params}->{disable} = 0;
 $c->{plugins}->{"Screen::EPrint::Issues2"}->{params}->{disable} = 0;
 $c->{plugins}->{"Screen::EPrint::Issues2Summary"}->{params}->{disable} = 0;
+
+# additional fields not to list in the compare and merge screen
+$c->{issues2_exclusions} = 
+{
+  # creators_name => 1,
+};

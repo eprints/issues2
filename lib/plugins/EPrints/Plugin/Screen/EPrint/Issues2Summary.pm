@@ -67,7 +67,7 @@ sub render
 	return $page unless defined $ds;
 
 	my @fields = $ds->fields;
-
+	my $issues2_exclusions = $session->get_repository->get_conf( "issues2_exclusions" );
 	# iterate over the fiellds comparing the 2 records
 	foreach my $field (@fields)
 	{
@@ -83,6 +83,7 @@ sub render
 		    $n !~ /^(item_issues|edit_lock|documents)/  && 
 		    $n !~ /(_datestamp)$/  && 
 		    $t ne "compound" && # sub fields show up separately
+		    !defined( $issues2_exclusions->{ $n } ) &&
 		    $string1 ne $string2 )
 		{
 			my $tr = $session->make_element( "tr" );

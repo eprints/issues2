@@ -1,5 +1,5 @@
 # register issues2 plugins here
 duplicate_doi
 duplicate_isbn
-duplicate_issn
+#duplicate_issn
 duplicate_title

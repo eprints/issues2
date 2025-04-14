@@ -20,7 +20,7 @@ sub new
 	$self->{appears} = [
 		{
 			place => "eprint_view_tabs",
-			position => 1500,
+			position => 1600,
 		},
 	];
 

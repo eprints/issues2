@@ -1,115 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://template.ulcc.ac.uk/id/epm/issues2'>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://localhost:8080/id/epm/issues2'>
   <epmid>issues2</epmid>
   <eprintid>529</eprintid>
-  <uri>http://192.168.23.142/id/epm/issues2</uri>
+  <uri>http://template.ulcc.ac.uk/id/epm/issues2</uri>
   <documents>
     <document>
       <files>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>lang/en/phrases/issues2.xml</filename>
-          <mime_type>application/xml</mime_type>
-          <hash>c037268a7ec6ce0169b88ae1f72ac889</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>2464</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>static/images/epm/issues2.png</filename>
-          <mime_type>image/png</mime_type>
-          <hash>a584c5a781a2d6b668e71dbaf99c8d10</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>120321</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>static/javascript/auto/issues2.js</filename>
-          <mime_type>text/x-c</mime_type>
-          <hash>4179fd9868b58d92c5f65e957e71b544</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>2754</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>static/style/auto/zzz_issues2.css</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>2b8cdb02cbb7e97b7968d05ac944affa</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>405</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Issues2.pm</filename>
-          <mime_type>text/x-c++</mime_type>
-          <hash>c15c3236e3e3e2156d31f6ba94c63c0b</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>4122</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Issues2/DuplicateDOI.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>97a0fd0d126dc2c2b09c93a55e3ec04a</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>505</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Issues2/DuplicateISSN.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>faf60b87b87a842081a2983e81e060be</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>503</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Issues2/DuplicateTitle.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>7c95d856f329c84cfb3d4d0fbf428314</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>702</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Issues2/DuplicateISBN.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>d8e56421562df21807013ceef79aac70</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>503</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/EPMC/Issues2.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>b9227c7f519d4bf131f18cdc06b10233</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>705</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Staff/IssueSearch2.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>6827122a668e859f25b89418c126cc1f</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>2464</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>06c09791d0b38cf54b7c1527d30585ab</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>779</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2Summary.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>9062f6bba29f869c9cb6d898f824a1c5</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>6207</filesize>
-        </file>
         <file>
           <datasetid>document</datasetid>
           <filename>cfg.d/issues_search2.pl</filename>
@@ -121,7 +17,7 @@
         <file>
           <datasetid>document</datasetid>
           <filename>cfg.d/z_issues2.pl</filename>
-          <mime_type>text/x-c++</mime_type>
+          <mime_type>text/plain</mime_type>
           <hash>31dee5faec23a2c04f1ab68133b5329a</hash>
           <hash_type>MD5</hash_type>
           <filesize>4632</filesize>
@@ -144,11 +40,19 @@
         </file>
         <file>
           <datasetid>document</datasetid>
-          <filename>epm/issues2/cgi/issues2merge</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>0fa95077716d4e85cdd62f738115e682</hash>
+          <filename>epm/issues2/bin/issues_audit2</filename>
+          <mime_type>text/x-perl</mime_type>
+          <hash>95c1df6f7ccbe50b7613aa39d0597b80</hash>
           <hash_type>MD5</hash_type>
-          <filesize>985</filesize>
+          <filesize>7937</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>epm/issues2/cfg/namedsets/issues2</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>be8332bd9602ac5fbfe3a2c96ad5acec</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>77</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -160,24 +64,112 @@
         </file>
         <file>
           <datasetid>document</datasetid>
-          <filename>epm/issues2/bin/issues_audit2</filename>
-          <mime_type>text/x-perl</mime_type>
-          <hash>20c761f65cfd0b11344995a0fa7fdbd0</hash>
+          <filename>epm/issues2/cgi/issues2merge</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>0fa95077716d4e85cdd62f738115e682</hash>
           <hash_type>MD5</hash_type>
-          <filesize>7512</filesize>
+          <filesize>985</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
-          <filename>epm/issues2/cfg/namedsets/issues2</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>7ecc3e641a4e745668b163a0dce666da</hash>
+          <filename>lang/en/phrases/issues2.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>c037268a7ec6ce0169b88ae1f72ac889</hash>
           <hash_type>MD5</hash_type>
-          <filesize>92</filesize>
+          <filesize>2464</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Issues2.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>c15c3236e3e3e2156d31f6ba94c63c0b</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4122</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Issues2/DuplicateDOI.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>97a0fd0d126dc2c2b09c93a55e3ec04a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>505</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Issues2/DuplicateISBN.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>d8e56421562df21807013ceef79aac70</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>503</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Issues2/DuplicateTitle.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>7c95d856f329c84cfb3d4d0fbf428314</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>702</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Screen/EPMC/Issues2.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>b9227c7f519d4bf131f18cdc06b10233</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>705</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>06c09791d0b38cf54b7c1527d30585ab</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>779</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Screen/EPrint/Issues2Summary.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>9062f6bba29f869c9cb6d898f824a1c5</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6207</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Screen/Staff/IssueSearch2.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>6827122a668e859f25b89418c126cc1f</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2464</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/images/epm/issues2.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>a584c5a781a2d6b668e71dbaf99c8d10</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>120321</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/javascript/auto/issues2.js</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>4179fd9868b58d92c5f65e957e71b544</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2754</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/style/auto/zzz_issues2.css</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>2b8cdb02cbb7e97b7968d05ac944affa</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>405</filesize>
         </file>
       </files>
       <mime_type>text/plain</mime_type>
-      <format>text</format>
-      <main>epm/issues2/cfg/namedsets/issues2</main>
+      <format>other</format>
+      <main>static/style/auto/zzz_issues2.css</main>
       <content>install</content>
     </document>
     <document>
@@ -196,7 +188,7 @@
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.2.1</version>
+  <version>1.0.2.2</version>
   <controller>EPMC::Issues2</controller>
   <creators>
     <item>
